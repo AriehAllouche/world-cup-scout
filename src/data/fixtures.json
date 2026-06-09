@@ -1,0 +1,6582 @@
+{
+  "teams": [
+    {
+      "name": "France",
+      "flag": "🇫🇷",
+      "group": "A",
+      "coach": "Didier Deschamps",
+      "totalValue": 914.9
+    },
+    {
+      "name": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": "B",
+      "coach": "Thomas Tuchel",
+      "totalValue": 941.2
+    },
+    {
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "group": "C",
+      "coach": "Luis de la Fuente",
+      "totalValue": 1103.8
+    },
+    {
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "group": "D",
+      "coach": "Julian Nagelsmann",
+      "totalValue": 977.3
+    },
+    {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "group": "E",
+      "coach": "Roberto Martínez",
+      "totalValue": 804.4
+    },
+    {
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "group": "F",
+      "coach": "Ronald Koeman",
+      "totalValue": 958.6
+    },
+    {
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "group": "G",
+      "coach": "Luciano Spalletti",
+      "totalValue": 563.1
+    },
+    {
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "group": "H",
+      "coach": "Rudi Garcia",
+      "totalValue": 558
+    },
+    {
+      "name": "Croatia",
+      "flag": "🇭🇷",
+      "group": "I",
+      "coach": "Zlatko Dalić",
+      "totalValue": 418.7
+    },
+    {
+      "name": "Denmark",
+      "flag": "🇩🇰",
+      "group": "J",
+      "coach": "Brian Riemer",
+      "totalValue": 454.4
+    },
+    {
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "group": "K",
+      "coach": "Murat Yakin",
+      "totalValue": 537.8
+    },
+    {
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "group": "L",
+      "coach": "Ralf Rangnick",
+      "totalValue": 460.9
+    },
+    {
+      "name": "Poland",
+      "flag": "🇵🇱",
+      "group": "A",
+      "coach": "Michał Probierz",
+      "totalValue": 220.2
+    },
+    {
+      "name": "Serbia",
+      "flag": "🇷🇸",
+      "group": "B",
+      "coach": "Veljko Paunović",
+      "totalValue": 249.3
+    },
+    {
+      "name": "Ukraine",
+      "flag": "🇺🇦",
+      "group": "C",
+      "coach": "Serhiy Rebrov",
+      "totalValue": 247.4
+    },
+    {
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "group": "D",
+      "coach": "Vincenzo Montella",
+      "totalValue": 205.1
+    },
+    {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "group": "E",
+      "coach": "Lionel Scaloni",
+      "totalValue": 1378.2
+    },
+    {
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "group": "F",
+      "coach": "Dorival Júnior",
+      "totalValue": 1081.7
+    },
+    {
+      "name": "Uruguay",
+      "flag": "🇺🇾",
+      "group": "G",
+      "coach": "Marcelo Bielsa",
+      "totalValue": 589.4
+    },
+    {
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "group": "H",
+      "coach": "Néstor Lorenzo",
+      "totalValue": 496.3
+    },
+    {
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "group": "I",
+      "coach": "Sebastián Beccacece",
+      "totalValue": 263.3
+    },
+    {
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "group": "J",
+      "coach": "Gustavo Alfaro",
+      "totalValue": 234.5
+    },
+    {
+      "name": "USA",
+      "flag": "🇺🇸",
+      "group": "K",
+      "coach": "Mauricio Pochettino",
+      "totalValue": 495
+    },
+    {
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "group": "L",
+      "coach": "Javier Aguirre",
+      "totalValue": 499.1
+    },
+    {
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "group": "A",
+      "coach": "Jesse Marsch",
+      "totalValue": 237.8
+    },
+    {
+      "name": "Costa Rica",
+      "flag": "🇨🇷",
+      "group": "B",
+      "coach": "Gustavo Alfaro",
+      "totalValue": 95
+    },
+    {
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "group": "C",
+      "coach": "Thomas Christiansen",
+      "totalValue": 89.2
+    },
+    {
+      "name": "Jamaica",
+      "flag": "🇯🇲",
+      "group": "D",
+      "coach": "Steve McClaren",
+      "totalValue": 62.6
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "group": "E",
+      "coach": "Hajime Moriyasu",
+      "totalValue": 455.2
+    },
+    {
+      "name": "South Korea",
+      "flag": "🇰🇷",
+      "group": "F",
+      "coach": "Hong Myung-bo",
+      "totalValue": 549.7
+    },
+    {
+      "name": "Iran",
+      "flag": "🇮🇷",
+      "group": "G",
+      "coach": "Amir Ghalenoei",
+      "totalValue": 197
+    },
+    {
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "group": "H",
+      "coach": "Hervé Renard",
+      "totalValue": 248.8
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "group": "I",
+      "coach": "Tony Popovic",
+      "totalValue": 211
+    },
+    {
+      "name": "Qatar",
+      "flag": "🇶🇦",
+      "group": "J",
+      "coach": "Bartolomé Márquez",
+      "totalValue": 97.7
+    },
+    {
+      "name": "Iraq",
+      "flag": "🇮🇶",
+      "group": "K",
+      "coach": "Jesús Casas",
+      "totalValue": 85.5
+    },
+    {
+      "name": "UAE",
+      "flag": "🇦🇪",
+      "group": "L",
+      "coach": "Paulo Bento",
+      "totalValue": 66.5
+    },
+    {
+      "name": "Morocco",
+      "flag": "🇲🇦",
+      "group": "A",
+      "coach": "Walid Regragui",
+      "totalValue": 477.9
+    },
+    {
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "group": "B",
+      "coach": "Pape Thiaw",
+      "totalValue": 491.9
+    },
+    {
+      "name": "Egypt",
+      "flag": "🇪🇬",
+      "group": "C",
+      "coach": "Hossam Hassan",
+      "totalValue": 216.3
+    },
+    {
+      "name": "Nigeria",
+      "flag": "🇳🇬",
+      "group": "D",
+      "coach": "Eric Chelle",
+      "totalValue": 279.1
+    },
+    {
+      "name": "Algeria",
+      "flag": "🇩🇿",
+      "group": "E",
+      "coach": "Vladimir Petković",
+      "totalValue": 217.2
+    },
+    {
+      "name": "Cameroon",
+      "flag": "🇨🇲",
+      "group": "F",
+      "coach": "Marc Brys",
+      "totalValue": 246.6
+    },
+    {
+      "name": "Ivory Coast",
+      "flag": "🇨🇮",
+      "group": "G",
+      "coach": "Emerse Faé",
+      "totalValue": 265.2
+    },
+    {
+      "name": "Ghana",
+      "flag": "🇬🇭",
+      "group": "H",
+      "coach": "Otto Addo",
+      "totalValue": 208
+    },
+    {
+      "name": "Tunisia",
+      "flag": "🇹🇳",
+      "group": "I",
+      "coach": "Sami Trabelsi",
+      "totalValue": 77.1
+    },
+    {
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "group": "J",
+      "coach": "Darren Bazeley",
+      "totalValue": 93.7
+    },
+    {
+      "name": "Wales",
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "group": "K",
+      "coach": "Craig Bellamy",
+      "totalValue": 203.5
+    },
+    {
+      "name": "DR Congo",
+      "flag": "🇨🇩",
+      "group": "L",
+      "coach": "Sébastien Desabre",
+      "totalValue": 85.7
+    }
+  ],
+  "players": [
+    {
+      "id": "France_0",
+      "name": "Romelu Dubois",
+      "nation": "France",
+      "age": 28,
+      "position": "Gardien",
+      "club": "Manchester City",
+      "marketValue": 18.1,
+      "profileUrl": "https://www.transfermarkt.com/romelu-dubois/profil/spieler/1"
+    },
+    {
+      "id": "France_1",
+      "name": "Florian Ferrari",
+      "nation": "France",
+      "age": 28,
+      "position": "Gardien",
+      "club": "Bayern Munich",
+      "marketValue": 38.9,
+      "profileUrl": "https://www.transfermarkt.com/florian-ferrari/profil/spieler/2"
+    },
+    {
+      "id": "France_2",
+      "name": "Antoine Smith",
+      "nation": "France",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Barcelona",
+      "marketValue": 66,
+      "profileUrl": "https://www.transfermarkt.com/antoine-smith/profil/spieler/3"
+    },
+    {
+      "id": "France_3",
+      "name": "Phil Romano",
+      "nation": "France",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "Chelsea",
+      "marketValue": 68.5,
+      "profileUrl": "https://www.transfermarkt.com/phil-romano/profil/spieler/4"
+    },
+    {
+      "id": "France_4",
+      "name": "Daniel Salah",
+      "nation": "France",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "PSG",
+      "marketValue": 29.1,
+      "profileUrl": "https://www.transfermarkt.com/daniel-salah/profil/spieler/5"
+    },
+    {
+      "id": "France_5",
+      "name": "Adam Tchouaméni",
+      "nation": "France",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 66.3,
+      "profileUrl": "https://www.transfermarkt.com/adam-tchouaméni/profil/spieler/6"
+    },
+    {
+      "id": "France_6",
+      "name": "Samuel Garcia",
+      "nation": "France",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 54.7,
+      "profileUrl": "https://www.transfermarkt.com/samuel-garcia/profil/spieler/7"
+    },
+    {
+      "id": "France_7",
+      "name": "Pedri Smith",
+      "nation": "France",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Chelsea",
+      "marketValue": 67.6,
+      "profileUrl": "https://www.transfermarkt.com/pedri-smith/profil/spieler/8"
+    },
+    {
+      "id": "France_8",
+      "name": "Carlos Casemiro",
+      "nation": "France",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 74.7,
+      "profileUrl": "https://www.transfermarkt.com/carlos-casemiro/profil/spieler/9"
+    },
+    {
+      "id": "France_9",
+      "name": "Antoine Fernandes",
+      "nation": "France",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Barcelona",
+      "marketValue": 71.7,
+      "profileUrl": "https://www.transfermarkt.com/antoine-fernandes/profil/spieler/10"
+    },
+    {
+      "id": "France_10",
+      "name": "Antoine Mendy",
+      "nation": "France",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Manchester City",
+      "marketValue": 121.4,
+      "profileUrl": "https://www.transfermarkt.com/antoine-mendy/profil/spieler/11"
+    },
+    {
+      "id": "France_11",
+      "name": "Pedro Ziyech",
+      "nation": "France",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Real Madrid",
+      "marketValue": 166.4,
+      "profileUrl": "https://www.transfermarkt.com/pedro-ziyech/profil/spieler/12"
+    },
+    {
+      "id": "France_12",
+      "name": "Pedri Ferrari",
+      "nation": "France",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Chelsea",
+      "marketValue": 71.5,
+      "profileUrl": "https://www.transfermarkt.com/pedri-ferrari/profil/spieler/13"
+    },
+    {
+      "id": "England_0",
+      "name": "Hugo Mané",
+      "nation": "England",
+      "age": 26,
+      "position": "Gardien",
+      "club": "PSG",
+      "marketValue": 44,
+      "profileUrl": "https://www.transfermarkt.com/hugo-mané/profil/spieler/1001"
+    },
+    {
+      "id": "England_1",
+      "name": "Luca Lee",
+      "nation": "England",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Real Madrid",
+      "marketValue": 22.7,
+      "profileUrl": "https://www.transfermarkt.com/luca-lee/profil/spieler/1002"
+    },
+    {
+      "id": "England_2",
+      "name": "Pedro Martinez",
+      "nation": "England",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Inter Milan",
+      "marketValue": 50.9,
+      "profileUrl": "https://www.transfermarkt.com/pedro-martinez/profil/spieler/1003"
+    },
+    {
+      "id": "England_3",
+      "name": "James Rodriguez",
+      "nation": "England",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Inter Milan",
+      "marketValue": 25.4,
+      "profileUrl": "https://www.transfermarkt.com/james-rodriguez/profil/spieler/1004"
+    },
+    {
+      "id": "England_4",
+      "name": "Carlos Yamamoto",
+      "nation": "England",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Juventus",
+      "marketValue": 40.5,
+      "profileUrl": "https://www.transfermarkt.com/carlos-yamamoto/profil/spieler/1005"
+    },
+    {
+      "id": "England_5",
+      "name": "Hiroshi Fernandes",
+      "nation": "England",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "Real Madrid",
+      "marketValue": 56.9,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-fernandes/profil/spieler/1006"
+    },
+    {
+      "id": "England_6",
+      "name": "Nico Sato",
+      "nation": "England",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 45.8,
+      "profileUrl": "https://www.transfermarkt.com/nico-sato/profil/spieler/1007"
+    },
+    {
+      "id": "England_7",
+      "name": "Phil Martinez",
+      "nation": "England",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Bayern Munich",
+      "marketValue": 143.3,
+      "profileUrl": "https://www.transfermarkt.com/phil-martinez/profil/spieler/1008"
+    },
+    {
+      "id": "England_8",
+      "name": "Juan Diaz",
+      "nation": "England",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 135.8,
+      "profileUrl": "https://www.transfermarkt.com/juan-diaz/profil/spieler/1009"
+    },
+    {
+      "id": "England_9",
+      "name": "Kylian Casemiro",
+      "nation": "England",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Manchester United",
+      "marketValue": 77.4,
+      "profileUrl": "https://www.transfermarkt.com/kylian-casemiro/profil/spieler/1010"
+    },
+    {
+      "id": "England_10",
+      "name": "Joshua Rashford",
+      "nation": "England",
+      "age": 31,
+      "position": "Attaquant",
+      "club": "Atlético Madrid",
+      "marketValue": 81.1,
+      "profileUrl": "https://www.transfermarkt.com/joshua-rashford/profil/spieler/1011"
+    },
+    {
+      "id": "England_11",
+      "name": "Bukayo Félix",
+      "nation": "England",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Arsenal",
+      "marketValue": 70.8,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-félix/profil/spieler/1012"
+    },
+    {
+      "id": "England_12",
+      "name": "Sadio Romano",
+      "nation": "England",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Barcelona",
+      "marketValue": 146.6,
+      "profileUrl": "https://www.transfermarkt.com/sadio-romano/profil/spieler/1013"
+    },
+    {
+      "id": "Spain_0",
+      "name": "Rafael Yamamoto",
+      "nation": "Spain",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Manchester United",
+      "marketValue": 41.5,
+      "profileUrl": "https://www.transfermarkt.com/rafael-yamamoto/profil/spieler/2001"
+    },
+    {
+      "id": "Spain_1",
+      "name": "Adam Rodriguez",
+      "nation": "Spain",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Chelsea",
+      "marketValue": 17.1,
+      "profileUrl": "https://www.transfermarkt.com/adam-rodriguez/profil/spieler/2002"
+    },
+    {
+      "id": "Spain_2",
+      "name": "Phil Casemiro",
+      "nation": "Spain",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Manchester United",
+      "marketValue": 83.2,
+      "profileUrl": "https://www.transfermarkt.com/phil-casemiro/profil/spieler/2003"
+    },
+    {
+      "id": "Spain_3",
+      "name": "Ali Osimhen",
+      "nation": "Spain",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Real Madrid",
+      "marketValue": 74.8,
+      "profileUrl": "https://www.transfermarkt.com/ali-osimhen/profil/spieler/2004"
+    },
+    {
+      "id": "Spain_4",
+      "name": "João Romano",
+      "nation": "Spain",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 64.9,
+      "profileUrl": "https://www.transfermarkt.com/joão-romano/profil/spieler/2005"
+    },
+    {
+      "id": "Spain_5",
+      "name": "Carlos Lukaku",
+      "nation": "Spain",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "PSG",
+      "marketValue": 74.4,
+      "profileUrl": "https://www.transfermarkt.com/carlos-lukaku/profil/spieler/2006"
+    },
+    {
+      "id": "Spain_6",
+      "name": "Florian Mbappé",
+      "nation": "Spain",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Manchester City",
+      "marketValue": 108.7,
+      "profileUrl": "https://www.transfermarkt.com/florian-mbappé/profil/spieler/2007"
+    },
+    {
+      "id": "Spain_7",
+      "name": "Kylian Martinez",
+      "nation": "Spain",
+      "age": 27,
+      "position": "Milieu",
+      "club": "PSG",
+      "marketValue": 115,
+      "profileUrl": "https://www.transfermarkt.com/kylian-martinez/profil/spieler/2008"
+    },
+    {
+      "id": "Spain_8",
+      "name": "Samuel Lopez",
+      "nation": "Spain",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Juventus",
+      "marketValue": 65.5,
+      "profileUrl": "https://www.transfermarkt.com/samuel-lopez/profil/spieler/2009"
+    },
+    {
+      "id": "Spain_9",
+      "name": "Mohamed Silva",
+      "nation": "Spain",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 177.4,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-silva/profil/spieler/2010"
+    },
+    {
+      "id": "Spain_10",
+      "name": "Yassine Ferrari",
+      "nation": "Spain",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Real Madrid",
+      "marketValue": 86.8,
+      "profileUrl": "https://www.transfermarkt.com/yassine-ferrari/profil/spieler/2011"
+    },
+    {
+      "id": "Spain_11",
+      "name": "Phil Brown",
+      "nation": "Spain",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "PSG",
+      "marketValue": 93.8,
+      "profileUrl": "https://www.transfermarkt.com/phil-brown/profil/spieler/2012"
+    },
+    {
+      "id": "Spain_12",
+      "name": "Sadio Rodrygo",
+      "nation": "Spain",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Liverpool",
+      "marketValue": 100.7,
+      "profileUrl": "https://www.transfermarkt.com/sadio-rodrygo/profil/spieler/2013"
+    },
+    {
+      "id": "Germany_0",
+      "name": "Sadio Williams",
+      "nation": "Germany",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Manchester United",
+      "marketValue": 48.9,
+      "profileUrl": "https://www.transfermarkt.com/sadio-williams/profil/spieler/3001"
+    },
+    {
+      "id": "Germany_1",
+      "name": "Noah Griezmann",
+      "nation": "Germany",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Liverpool",
+      "marketValue": 37.7,
+      "profileUrl": "https://www.transfermarkt.com/noah-griezmann/profil/spieler/3002"
+    },
+    {
+      "id": "Germany_2",
+      "name": "Luca Rodriguez",
+      "nation": "Germany",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 33.9,
+      "profileUrl": "https://www.transfermarkt.com/luca-rodriguez/profil/spieler/3003"
+    },
+    {
+      "id": "Germany_3",
+      "name": "Harry Casemiro",
+      "nation": "Germany",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Arsenal",
+      "marketValue": 85.3,
+      "profileUrl": "https://www.transfermarkt.com/harry-casemiro/profil/spieler/3004"
+    },
+    {
+      "id": "Germany_4",
+      "name": "Lucas Rodrygo",
+      "nation": "Germany",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Juventus",
+      "marketValue": 68.6,
+      "profileUrl": "https://www.transfermarkt.com/lucas-rodrygo/profil/spieler/3005"
+    },
+    {
+      "id": "Germany_5",
+      "name": "Stefan Bernard",
+      "nation": "Germany",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Bayern Munich",
+      "marketValue": 55.3,
+      "profileUrl": "https://www.transfermarkt.com/stefan-bernard/profil/spieler/3006"
+    },
+    {
+      "id": "Germany_6",
+      "name": "Takumi Rashford",
+      "nation": "Germany",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Barcelona",
+      "marketValue": 62,
+      "profileUrl": "https://www.transfermarkt.com/takumi-rashford/profil/spieler/3007"
+    },
+    {
+      "id": "Germany_7",
+      "name": "Samuel Bellingham",
+      "nation": "Germany",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Manchester United",
+      "marketValue": 42.2,
+      "profileUrl": "https://www.transfermarkt.com/samuel-bellingham/profil/spieler/3008"
+    },
+    {
+      "id": "Germany_8",
+      "name": "Mohamed Tanaka",
+      "nation": "Germany",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Inter Milan",
+      "marketValue": 131.3,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-tanaka/profil/spieler/3009"
+    },
+    {
+      "id": "Germany_9",
+      "name": "Florian Yamamoto",
+      "nation": "Germany",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Barcelona",
+      "marketValue": 75.4,
+      "profileUrl": "https://www.transfermarkt.com/florian-yamamoto/profil/spieler/3010"
+    },
+    {
+      "id": "Germany_10",
+      "name": "Rafael Mbappé",
+      "nation": "Germany",
+      "age": 22,
+      "position": "Attaquant",
+      "club": "Bayern Munich",
+      "marketValue": 152.3,
+      "profileUrl": "https://www.transfermarkt.com/rafael-mbappé/profil/spieler/3011"
+    },
+    {
+      "id": "Germany_11",
+      "name": "Carlos Williams",
+      "nation": "Germany",
+      "age": 23,
+      "position": "Attaquant",
+      "club": "Arsenal",
+      "marketValue": 89,
+      "profileUrl": "https://www.transfermarkt.com/carlos-williams/profil/spieler/3012"
+    },
+    {
+      "id": "Germany_12",
+      "name": "Min-jun González",
+      "nation": "Germany",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Chelsea",
+      "marketValue": 95.4,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-gonzález/profil/spieler/3013"
+    },
+    {
+      "id": "Portugal_0",
+      "name": "Bukayo Fischer",
+      "nation": "Portugal",
+      "age": 25,
+      "position": "Gardien",
+      "club": "Inter Milan",
+      "marketValue": 20.8,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-fischer/profil/spieler/4001"
+    },
+    {
+      "id": "Portugal_1",
+      "name": "Victor Rossi",
+      "nation": "Portugal",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Inter Milan",
+      "marketValue": 18.7,
+      "profileUrl": "https://www.transfermarkt.com/victor-rossi/profil/spieler/4002"
+    },
+    {
+      "id": "Portugal_2",
+      "name": "Hugo Müller",
+      "nation": "Portugal",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 46.2,
+      "profileUrl": "https://www.transfermarkt.com/hugo-müller/profil/spieler/4003"
+    },
+    {
+      "id": "Portugal_3",
+      "name": "Noah Félix",
+      "nation": "Portugal",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Real Madrid",
+      "marketValue": 65.3,
+      "profileUrl": "https://www.transfermarkt.com/noah-félix/profil/spieler/4004"
+    },
+    {
+      "id": "Portugal_4",
+      "name": "Noah Schmidt",
+      "nation": "Portugal",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 78.2,
+      "profileUrl": "https://www.transfermarkt.com/noah-schmidt/profil/spieler/4005"
+    },
+    {
+      "id": "Portugal_5",
+      "name": "Marco Rashford",
+      "nation": "Portugal",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Atlético Madrid",
+      "marketValue": 47.7,
+      "profileUrl": "https://www.transfermarkt.com/marco-rashford/profil/spieler/4006"
+    },
+    {
+      "id": "Portugal_6",
+      "name": "Karim Kim",
+      "nation": "Portugal",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Real Madrid",
+      "marketValue": 58.7,
+      "profileUrl": "https://www.transfermarkt.com/karim-kim/profil/spieler/4007"
+    },
+    {
+      "id": "Portugal_7",
+      "name": "Stefan Martinez",
+      "nation": "Portugal",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Barcelona",
+      "marketValue": 72.4,
+      "profileUrl": "https://www.transfermarkt.com/stefan-martinez/profil/spieler/4008"
+    },
+    {
+      "id": "Portugal_8",
+      "name": "James Traoré",
+      "nation": "Portugal",
+      "age": 21,
+      "position": "Milieu",
+      "club": "PSG",
+      "marketValue": 44.2,
+      "profileUrl": "https://www.transfermarkt.com/james-traoré/profil/spieler/4009"
+    },
+    {
+      "id": "Portugal_9",
+      "name": "Hassan Tchouaméni",
+      "nation": "Portugal",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Inter Milan",
+      "marketValue": 40.4,
+      "profileUrl": "https://www.transfermarkt.com/hassan-tchouaméni/profil/spieler/4010"
+    },
+    {
+      "id": "Portugal_10",
+      "name": "Mohamed Tchouaméni",
+      "nation": "Portugal",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Chelsea",
+      "marketValue": 62.3,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-tchouaméni/profil/spieler/4011"
+    },
+    {
+      "id": "Portugal_11",
+      "name": "Lamine Silva",
+      "nation": "Portugal",
+      "age": 34,
+      "position": "Attaquant",
+      "club": "Real Madrid",
+      "marketValue": 186.1,
+      "profileUrl": "https://www.transfermarkt.com/lamine-silva/profil/spieler/4012"
+    },
+    {
+      "id": "Portugal_12",
+      "name": "Daniel Schmidt",
+      "nation": "Portugal",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Barcelona",
+      "marketValue": 63.4,
+      "profileUrl": "https://www.transfermarkt.com/daniel-schmidt/profil/spieler/4013"
+    },
+    {
+      "id": "Netherlands_0",
+      "name": "Pedro Smith",
+      "nation": "Netherlands",
+      "age": 31,
+      "position": "Gardien",
+      "club": "Arsenal",
+      "marketValue": 17.2,
+      "profileUrl": "https://www.transfermarkt.com/pedro-smith/profil/spieler/5001"
+    },
+    {
+      "id": "Netherlands_1",
+      "name": "James Rashford",
+      "nation": "Netherlands",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Arsenal",
+      "marketValue": 17.8,
+      "profileUrl": "https://www.transfermarkt.com/james-rashford/profil/spieler/5002"
+    },
+    {
+      "id": "Netherlands_2",
+      "name": "Rafael Martinez",
+      "nation": "Netherlands",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Atlético Madrid",
+      "marketValue": 46.8,
+      "profileUrl": "https://www.transfermarkt.com/rafael-martinez/profil/spieler/5003"
+    },
+    {
+      "id": "Netherlands_3",
+      "name": "Liam Yamal",
+      "nation": "Netherlands",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "PSG",
+      "marketValue": 31.4,
+      "profileUrl": "https://www.transfermarkt.com/liam-yamal/profil/spieler/5004"
+    },
+    {
+      "id": "Netherlands_4",
+      "name": "João Martinez",
+      "nation": "Netherlands",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Manchester City",
+      "marketValue": 71.8,
+      "profileUrl": "https://www.transfermarkt.com/joão-martinez/profil/spieler/5005"
+    },
+    {
+      "id": "Netherlands_5",
+      "name": "Pedri Ziyech",
+      "nation": "Netherlands",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Chelsea",
+      "marketValue": 26.2,
+      "profileUrl": "https://www.transfermarkt.com/pedri-ziyech/profil/spieler/5006"
+    },
+    {
+      "id": "Netherlands_6",
+      "name": "Takumi Lopez",
+      "nation": "Netherlands",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Real Madrid",
+      "marketValue": 89.4,
+      "profileUrl": "https://www.transfermarkt.com/takumi-lopez/profil/spieler/5007"
+    },
+    {
+      "id": "Netherlands_7",
+      "name": "Kai Sato",
+      "nation": "Netherlands",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Bayern Munich",
+      "marketValue": 137.9,
+      "profileUrl": "https://www.transfermarkt.com/kai-sato/profil/spieler/5008"
+    },
+    {
+      "id": "Netherlands_8",
+      "name": "Mateo Fernandes",
+      "nation": "Netherlands",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 45.5,
+      "profileUrl": "https://www.transfermarkt.com/mateo-fernandes/profil/spieler/5009"
+    },
+    {
+      "id": "Netherlands_9",
+      "name": "Liam Diaz",
+      "nation": "Netherlands",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Arsenal",
+      "marketValue": 98.1,
+      "profileUrl": "https://www.transfermarkt.com/liam-diaz/profil/spieler/5010"
+    },
+    {
+      "id": "Netherlands_10",
+      "name": "Takumi Ferrari",
+      "nation": "Netherlands",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Chelsea",
+      "marketValue": 136.3,
+      "profileUrl": "https://www.transfermarkt.com/takumi-ferrari/profil/spieler/5011"
+    },
+    {
+      "id": "Netherlands_11",
+      "name": "Aurélien Yamal",
+      "nation": "Netherlands",
+      "age": 35,
+      "position": "Attaquant",
+      "club": "Liverpool",
+      "marketValue": 164.5,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-yamal/profil/spieler/5012"
+    },
+    {
+      "id": "Netherlands_12",
+      "name": "Kylian Santos",
+      "nation": "Netherlands",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Liverpool",
+      "marketValue": 75.7,
+      "profileUrl": "https://www.transfermarkt.com/kylian-santos/profil/spieler/5013"
+    },
+    {
+      "id": "Italy_0",
+      "name": "Hassan Park",
+      "nation": "Italy",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Borussia Dortmund",
+      "marketValue": 24.5,
+      "profileUrl": "https://www.transfermarkt.com/hassan-park/profil/spieler/6001"
+    },
+    {
+      "id": "Italy_1",
+      "name": "Lucas Hakimi",
+      "nation": "Italy",
+      "age": 27,
+      "position": "Gardien",
+      "club": "Porto",
+      "marketValue": 21.3,
+      "profileUrl": "https://www.transfermarkt.com/lucas-hakimi/profil/spieler/6002"
+    },
+    {
+      "id": "Italy_2",
+      "name": "Rafael Touré",
+      "nation": "Italy",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Tottenham",
+      "marketValue": 16.5,
+      "profileUrl": "https://www.transfermarkt.com/rafael-touré/profil/spieler/6003"
+    },
+    {
+      "id": "Italy_3",
+      "name": "Adam Leão",
+      "nation": "Italy",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Benfica",
+      "marketValue": 24.7,
+      "profileUrl": "https://www.transfermarkt.com/adam-leão/profil/spieler/6004"
+    },
+    {
+      "id": "Italy_4",
+      "name": "Marco Yamamoto",
+      "nation": "Italy",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 38.8,
+      "profileUrl": "https://www.transfermarkt.com/marco-yamamoto/profil/spieler/6005"
+    },
+    {
+      "id": "Italy_5",
+      "name": "Liam Rodriguez",
+      "nation": "Italy",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Atalanta",
+      "marketValue": 45,
+      "profileUrl": "https://www.transfermarkt.com/liam-rodriguez/profil/spieler/6006"
+    },
+    {
+      "id": "Italy_6",
+      "name": "Florian Saka",
+      "nation": "Italy",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Bayer Leverkusen",
+      "marketValue": 35.6,
+      "profileUrl": "https://www.transfermarkt.com/florian-saka/profil/spieler/6007"
+    },
+    {
+      "id": "Italy_7",
+      "name": "Pedro Traoré",
+      "nation": "Italy",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Atalanta",
+      "marketValue": 69.7,
+      "profileUrl": "https://www.transfermarkt.com/pedro-traoré/profil/spieler/6008"
+    },
+    {
+      "id": "Italy_8",
+      "name": "Daniel Saka",
+      "nation": "Italy",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Tottenham",
+      "marketValue": 30.8,
+      "profileUrl": "https://www.transfermarkt.com/daniel-saka/profil/spieler/6009"
+    },
+    {
+      "id": "Italy_9",
+      "name": "Jude González",
+      "nation": "Italy",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Tottenham",
+      "marketValue": 59.6,
+      "profileUrl": "https://www.transfermarkt.com/jude-gonzález/profil/spieler/6010"
+    },
+    {
+      "id": "Italy_10",
+      "name": "Ali Saka",
+      "nation": "Italy",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Napoli",
+      "marketValue": 63.8,
+      "profileUrl": "https://www.transfermarkt.com/ali-saka/profil/spieler/6011"
+    },
+    {
+      "id": "Italy_11",
+      "name": "Kai Osimhen",
+      "nation": "Italy",
+      "age": 35,
+      "position": "Attaquant",
+      "club": "Aston Villa",
+      "marketValue": 60.9,
+      "profileUrl": "https://www.transfermarkt.com/kai-osimhen/profil/spieler/6012"
+    },
+    {
+      "id": "Italy_12",
+      "name": "Karim Silva",
+      "nation": "Italy",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Benfica",
+      "marketValue": 71.9,
+      "profileUrl": "https://www.transfermarkt.com/karim-silva/profil/spieler/6013"
+    },
+    {
+      "id": "Belgium_0",
+      "name": "Victor Vinicius",
+      "nation": "Belgium",
+      "age": 25,
+      "position": "Gardien",
+      "club": "Aston Villa",
+      "marketValue": 21,
+      "profileUrl": "https://www.transfermarkt.com/victor-vinicius/profil/spieler/7001"
+    },
+    {
+      "id": "Belgium_1",
+      "name": "Pedro Tanaka",
+      "nation": "Belgium",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Borussia Dortmund",
+      "marketValue": 12.9,
+      "profileUrl": "https://www.transfermarkt.com/pedro-tanaka/profil/spieler/7002"
+    },
+    {
+      "id": "Belgium_2",
+      "name": "Jude Yamamoto",
+      "nation": "Belgium",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 36.4,
+      "profileUrl": "https://www.transfermarkt.com/jude-yamamoto/profil/spieler/7003"
+    },
+    {
+      "id": "Belgium_3",
+      "name": "Rafael Ziyech",
+      "nation": "Belgium",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Bayer Leverkusen",
+      "marketValue": 27.9,
+      "profileUrl": "https://www.transfermarkt.com/rafael-ziyech/profil/spieler/7004"
+    },
+    {
+      "id": "Belgium_4",
+      "name": "Mohamed Yamal",
+      "nation": "Belgium",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "RB Leipzig",
+      "marketValue": 48.3,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-yamal/profil/spieler/7005"
+    },
+    {
+      "id": "Belgium_5",
+      "name": "Pedri Mbappé",
+      "nation": "Belgium",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Roma",
+      "marketValue": 35.6,
+      "profileUrl": "https://www.transfermarkt.com/pedri-mbappé/profil/spieler/7006"
+    },
+    {
+      "id": "Belgium_6",
+      "name": "Sadio Rodriguez",
+      "nation": "Belgium",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Tottenham",
+      "marketValue": 63.2,
+      "profileUrl": "https://www.transfermarkt.com/sadio-rodriguez/profil/spieler/7007"
+    },
+    {
+      "id": "Belgium_7",
+      "name": "Lucas Touré",
+      "nation": "Belgium",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Bayer Leverkusen",
+      "marketValue": 65.9,
+      "profileUrl": "https://www.transfermarkt.com/lucas-touré/profil/spieler/7008"
+    },
+    {
+      "id": "Belgium_8",
+      "name": "Leo Lopez",
+      "nation": "Belgium",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 65.5,
+      "profileUrl": "https://www.transfermarkt.com/leo-lopez/profil/spieler/7009"
+    },
+    {
+      "id": "Belgium_9",
+      "name": "Bruno Félix",
+      "nation": "Belgium",
+      "age": 21,
+      "position": "Milieu",
+      "club": "AC Milan",
+      "marketValue": 23.3,
+      "profileUrl": "https://www.transfermarkt.com/bruno-félix/profil/spieler/7010"
+    },
+    {
+      "id": "Belgium_10",
+      "name": "João Hakimi",
+      "nation": "Belgium",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Tottenham",
+      "marketValue": 70.6,
+      "profileUrl": "https://www.transfermarkt.com/joão-hakimi/profil/spieler/7011"
+    },
+    {
+      "id": "Belgium_11",
+      "name": "Kylian Fischer",
+      "nation": "Belgium",
+      "age": 23,
+      "position": "Attaquant",
+      "club": "Benfica",
+      "marketValue": 47.8,
+      "profileUrl": "https://www.transfermarkt.com/kylian-fischer/profil/spieler/7012"
+    },
+    {
+      "id": "Belgium_12",
+      "name": "Romelu Vinicius",
+      "nation": "Belgium",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Benfica",
+      "marketValue": 39.6,
+      "profileUrl": "https://www.transfermarkt.com/romelu-vinicius/profil/spieler/7013"
+    },
+    {
+      "id": "Croatia_0",
+      "name": "Ali Rashford",
+      "nation": "Croatia",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Porto",
+      "marketValue": 15.1,
+      "profileUrl": "https://www.transfermarkt.com/ali-rashford/profil/spieler/8001"
+    },
+    {
+      "id": "Croatia_1",
+      "name": "Jude Félix",
+      "nation": "Croatia",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Napoli",
+      "marketValue": 24.7,
+      "profileUrl": "https://www.transfermarkt.com/jude-félix/profil/spieler/8002"
+    },
+    {
+      "id": "Croatia_2",
+      "name": "Hassan Tanaka",
+      "nation": "Croatia",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 28.6,
+      "profileUrl": "https://www.transfermarkt.com/hassan-tanaka/profil/spieler/8003"
+    },
+    {
+      "id": "Croatia_3",
+      "name": "Sadio Silva",
+      "nation": "Croatia",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Borussia Dortmund",
+      "marketValue": 22.9,
+      "profileUrl": "https://www.transfermarkt.com/sadio-silva/profil/spieler/8004"
+    },
+    {
+      "id": "Croatia_4",
+      "name": "Diego Leão",
+      "nation": "Croatia",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Tottenham",
+      "marketValue": 20,
+      "profileUrl": "https://www.transfermarkt.com/diego-leão/profil/spieler/8005"
+    },
+    {
+      "id": "Croatia_5",
+      "name": "Erling Romano",
+      "nation": "Croatia",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Roma",
+      "marketValue": 21.2,
+      "profileUrl": "https://www.transfermarkt.com/erling-romano/profil/spieler/8006"
+    },
+    {
+      "id": "Croatia_6",
+      "name": "Rafael Hakimi",
+      "nation": "Croatia",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Bayer Leverkusen",
+      "marketValue": 38,
+      "profileUrl": "https://www.transfermarkt.com/rafael-hakimi/profil/spieler/8007"
+    },
+    {
+      "id": "Croatia_7",
+      "name": "João Rashford",
+      "nation": "Croatia",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Newcastle",
+      "marketValue": 62.5,
+      "profileUrl": "https://www.transfermarkt.com/joão-rashford/profil/spieler/8008"
+    },
+    {
+      "id": "Croatia_8",
+      "name": "Joshua Bernard",
+      "nation": "Croatia",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Aston Villa",
+      "marketValue": 48.3,
+      "profileUrl": "https://www.transfermarkt.com/joshua-bernard/profil/spieler/8009"
+    },
+    {
+      "id": "Croatia_9",
+      "name": "Jude Brown",
+      "nation": "Croatia",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Napoli",
+      "marketValue": 69.7,
+      "profileUrl": "https://www.transfermarkt.com/jude-brown/profil/spieler/8010"
+    },
+    {
+      "id": "Croatia_10",
+      "name": "Hassan Park",
+      "nation": "Croatia",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Porto",
+      "marketValue": 24.7,
+      "profileUrl": "https://www.transfermarkt.com/hassan-park/profil/spieler/8011"
+    },
+    {
+      "id": "Croatia_11",
+      "name": "Bruno Garcia",
+      "nation": "Croatia",
+      "age": 31,
+      "position": "Attaquant",
+      "club": "Aston Villa",
+      "marketValue": 20.1,
+      "profileUrl": "https://www.transfermarkt.com/bruno-garcia/profil/spieler/8012"
+    },
+    {
+      "id": "Croatia_12",
+      "name": "Kai Osimhen",
+      "nation": "Croatia",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Porto",
+      "marketValue": 22.9,
+      "profileUrl": "https://www.transfermarkt.com/kai-osimhen/profil/spieler/8013"
+    },
+    {
+      "id": "Denmark_0",
+      "name": "Luca Sato",
+      "nation": "Denmark",
+      "age": 35,
+      "position": "Gardien",
+      "club": "Napoli",
+      "marketValue": 26,
+      "profileUrl": "https://www.transfermarkt.com/luca-sato/profil/spieler/9001"
+    },
+    {
+      "id": "Denmark_1",
+      "name": "David Rashford",
+      "nation": "Denmark",
+      "age": 24,
+      "position": "Gardien",
+      "club": "Newcastle",
+      "marketValue": 12.2,
+      "profileUrl": "https://www.transfermarkt.com/david-rashford/profil/spieler/9002"
+    },
+    {
+      "id": "Denmark_2",
+      "name": "Erling Touré",
+      "nation": "Denmark",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Atalanta",
+      "marketValue": 43.1,
+      "profileUrl": "https://www.transfermarkt.com/erling-touré/profil/spieler/9003"
+    },
+    {
+      "id": "Denmark_3",
+      "name": "Harry Müller",
+      "nation": "Denmark",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 27.3,
+      "profileUrl": "https://www.transfermarkt.com/harry-müller/profil/spieler/9004"
+    },
+    {
+      "id": "Denmark_4",
+      "name": "João Foden",
+      "nation": "Denmark",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Benfica",
+      "marketValue": 22.3,
+      "profileUrl": "https://www.transfermarkt.com/joão-foden/profil/spieler/9005"
+    },
+    {
+      "id": "Denmark_5",
+      "name": "Gavi Kim",
+      "nation": "Denmark",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "RB Leipzig",
+      "marketValue": 44.2,
+      "profileUrl": "https://www.transfermarkt.com/gavi-kim/profil/spieler/9006"
+    },
+    {
+      "id": "Denmark_6",
+      "name": "Gavi Smith",
+      "nation": "Denmark",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 23.6,
+      "profileUrl": "https://www.transfermarkt.com/gavi-smith/profil/spieler/9007"
+    },
+    {
+      "id": "Denmark_7",
+      "name": "Samuel Lee",
+      "nation": "Denmark",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 44.8,
+      "profileUrl": "https://www.transfermarkt.com/samuel-lee/profil/spieler/9008"
+    },
+    {
+      "id": "Denmark_8",
+      "name": "Gavi Mané",
+      "nation": "Denmark",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Napoli",
+      "marketValue": 18.7,
+      "profileUrl": "https://www.transfermarkt.com/gavi-mané/profil/spieler/9009"
+    },
+    {
+      "id": "Denmark_9",
+      "name": "Ali Osimhen",
+      "nation": "Denmark",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 63.5,
+      "profileUrl": "https://www.transfermarkt.com/ali-osimhen/profil/spieler/9010"
+    },
+    {
+      "id": "Denmark_10",
+      "name": "Sadio Foden",
+      "nation": "Denmark",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Bayer Leverkusen",
+      "marketValue": 31.2,
+      "profileUrl": "https://www.transfermarkt.com/sadio-foden/profil/spieler/9011"
+    },
+    {
+      "id": "Denmark_11",
+      "name": "Mohamed Hakimi",
+      "nation": "Denmark",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Benfica",
+      "marketValue": 49.5,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-hakimi/profil/spieler/9012"
+    },
+    {
+      "id": "Denmark_12",
+      "name": "Luca Mbappé",
+      "nation": "Denmark",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Bayer Leverkusen",
+      "marketValue": 48,
+      "profileUrl": "https://www.transfermarkt.com/luca-mbappé/profil/spieler/9013"
+    },
+    {
+      "id": "Switzerland_0",
+      "name": "Bruno Romano",
+      "nation": "Switzerland",
+      "age": 32,
+      "position": "Gardien",
+      "club": "Napoli",
+      "marketValue": 15.4,
+      "profileUrl": "https://www.transfermarkt.com/bruno-romano/profil/spieler/10001"
+    },
+    {
+      "id": "Switzerland_1",
+      "name": "Tomas Griezmann",
+      "nation": "Switzerland",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Roma",
+      "marketValue": 27.6,
+      "profileUrl": "https://www.transfermarkt.com/tomas-griezmann/profil/spieler/10002"
+    },
+    {
+      "id": "Switzerland_2",
+      "name": "Lucas González",
+      "nation": "Switzerland",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "Tottenham",
+      "marketValue": 18.1,
+      "profileUrl": "https://www.transfermarkt.com/lucas-gonzález/profil/spieler/10003"
+    },
+    {
+      "id": "Switzerland_3",
+      "name": "Takumi Bernard",
+      "nation": "Switzerland",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "RB Leipzig",
+      "marketValue": 33.1,
+      "profileUrl": "https://www.transfermarkt.com/takumi-bernard/profil/spieler/10004"
+    },
+    {
+      "id": "Switzerland_4",
+      "name": "Carlos Williams",
+      "nation": "Switzerland",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Napoli",
+      "marketValue": 30.5,
+      "profileUrl": "https://www.transfermarkt.com/carlos-williams/profil/spieler/10005"
+    },
+    {
+      "id": "Switzerland_5",
+      "name": "Bruno Casemiro",
+      "nation": "Switzerland",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 23.9,
+      "profileUrl": "https://www.transfermarkt.com/bruno-casemiro/profil/spieler/10006"
+    },
+    {
+      "id": "Switzerland_6",
+      "name": "Jude Tchouaméni",
+      "nation": "Switzerland",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Aston Villa",
+      "marketValue": 26.7,
+      "profileUrl": "https://www.transfermarkt.com/jude-tchouaméni/profil/spieler/10007"
+    },
+    {
+      "id": "Switzerland_7",
+      "name": "Phil Yamal",
+      "nation": "Switzerland",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Newcastle",
+      "marketValue": 54.2,
+      "profileUrl": "https://www.transfermarkt.com/phil-yamal/profil/spieler/10008"
+    },
+    {
+      "id": "Switzerland_8",
+      "name": "Nico Martinez",
+      "nation": "Switzerland",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 56.2,
+      "profileUrl": "https://www.transfermarkt.com/nico-martinez/profil/spieler/10009"
+    },
+    {
+      "id": "Switzerland_9",
+      "name": "Juan Fernandes",
+      "nation": "Switzerland",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Atalanta",
+      "marketValue": 34.6,
+      "profileUrl": "https://www.transfermarkt.com/juan-fernandes/profil/spieler/10010"
+    },
+    {
+      "id": "Switzerland_10",
+      "name": "Mateo Tanaka",
+      "nation": "Switzerland",
+      "age": 22,
+      "position": "Attaquant",
+      "club": "Newcastle",
+      "marketValue": 64.4,
+      "profileUrl": "https://www.transfermarkt.com/mateo-tanaka/profil/spieler/10011"
+    },
+    {
+      "id": "Switzerland_11",
+      "name": "Ethan Yamal",
+      "nation": "Switzerland",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Napoli",
+      "marketValue": 64.3,
+      "profileUrl": "https://www.transfermarkt.com/ethan-yamal/profil/spieler/10012"
+    },
+    {
+      "id": "Switzerland_12",
+      "name": "Liam Diaz",
+      "nation": "Switzerland",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Borussia Dortmund",
+      "marketValue": 88.8,
+      "profileUrl": "https://www.transfermarkt.com/liam-diaz/profil/spieler/10013"
+    },
+    {
+      "id": "Austria_0",
+      "name": "Phil Foden",
+      "nation": "Austria",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Bayer Leverkusen",
+      "marketValue": 10.6,
+      "profileUrl": "https://www.transfermarkt.com/phil-foden/profil/spieler/11001"
+    },
+    {
+      "id": "Austria_1",
+      "name": "Florian Yamamoto",
+      "nation": "Austria",
+      "age": 33,
+      "position": "Gardien",
+      "club": "Tottenham",
+      "marketValue": 11.1,
+      "profileUrl": "https://www.transfermarkt.com/florian-yamamoto/profil/spieler/11002"
+    },
+    {
+      "id": "Austria_2",
+      "name": "Phil Foden",
+      "nation": "Austria",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Borussia Dortmund",
+      "marketValue": 24.5,
+      "profileUrl": "https://www.transfermarkt.com/phil-foden/profil/spieler/11003"
+    },
+    {
+      "id": "Austria_3",
+      "name": "Florian Osimhen",
+      "nation": "Austria",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "RB Leipzig",
+      "marketValue": 14.5,
+      "profileUrl": "https://www.transfermarkt.com/florian-osimhen/profil/spieler/11004"
+    },
+    {
+      "id": "Austria_4",
+      "name": "Florian Mendy",
+      "nation": "Austria",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 43.5,
+      "profileUrl": "https://www.transfermarkt.com/florian-mendy/profil/spieler/11005"
+    },
+    {
+      "id": "Austria_5",
+      "name": "Rafael Martin",
+      "nation": "Austria",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Atalanta",
+      "marketValue": 27,
+      "profileUrl": "https://www.transfermarkt.com/rafael-martin/profil/spieler/11006"
+    },
+    {
+      "id": "Austria_6",
+      "name": "Gavi Sato",
+      "nation": "Austria",
+      "age": 27,
+      "position": "Milieu",
+      "club": "AC Milan",
+      "marketValue": 58.3,
+      "profileUrl": "https://www.transfermarkt.com/gavi-sato/profil/spieler/11007"
+    },
+    {
+      "id": "Austria_7",
+      "name": "Sadio Jones",
+      "nation": "Austria",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 46.7,
+      "profileUrl": "https://www.transfermarkt.com/sadio-jones/profil/spieler/11008"
+    },
+    {
+      "id": "Austria_8",
+      "name": "Carlos Williams",
+      "nation": "Austria",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Napoli",
+      "marketValue": 30.5,
+      "profileUrl": "https://www.transfermarkt.com/carlos-williams/profil/spieler/11009"
+    },
+    {
+      "id": "Austria_9",
+      "name": "João Smith",
+      "nation": "Austria",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Newcastle",
+      "marketValue": 25.2,
+      "profileUrl": "https://www.transfermarkt.com/joão-smith/profil/spieler/11010"
+    },
+    {
+      "id": "Austria_10",
+      "name": "Romelu Park",
+      "nation": "Austria",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Benfica",
+      "marketValue": 39.3,
+      "profileUrl": "https://www.transfermarkt.com/romelu-park/profil/spieler/11011"
+    },
+    {
+      "id": "Austria_11",
+      "name": "Sadio Diop",
+      "nation": "Austria",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Bayer Leverkusen",
+      "marketValue": 58.4,
+      "profileUrl": "https://www.transfermarkt.com/sadio-diop/profil/spieler/11012"
+    },
+    {
+      "id": "Austria_12",
+      "name": "Liam Lee",
+      "nation": "Austria",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Atalanta",
+      "marketValue": 71.3,
+      "profileUrl": "https://www.transfermarkt.com/liam-lee/profil/spieler/11013"
+    },
+    {
+      "id": "Poland_0",
+      "name": "Romelu Tanaka",
+      "nation": "Poland",
+      "age": 31,
+      "position": "Gardien",
+      "club": "Wolfsburg",
+      "marketValue": 3.7,
+      "profileUrl": "https://www.transfermarkt.com/romelu-tanaka/profil/spieler/12001"
+    },
+    {
+      "id": "Poland_1",
+      "name": "Juan Romano",
+      "nation": "Poland",
+      "age": 32,
+      "position": "Gardien",
+      "club": "Marseille",
+      "marketValue": 12,
+      "profileUrl": "https://www.transfermarkt.com/juan-romano/profil/spieler/12002"
+    },
+    {
+      "id": "Poland_2",
+      "name": "Mohamed Leão",
+      "nation": "Poland",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 24,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-leão/profil/spieler/12003"
+    },
+    {
+      "id": "Poland_3",
+      "name": "Pedri Smith",
+      "nation": "Poland",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 11.2,
+      "profileUrl": "https://www.transfermarkt.com/pedri-smith/profil/spieler/12004"
+    },
+    {
+      "id": "Poland_4",
+      "name": "Hugo Sato",
+      "nation": "Poland",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 20.1,
+      "profileUrl": "https://www.transfermarkt.com/hugo-sato/profil/spieler/12005"
+    },
+    {
+      "id": "Poland_5",
+      "name": "Rafael Mané",
+      "nation": "Poland",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Valencia",
+      "marketValue": 9.2,
+      "profileUrl": "https://www.transfermarkt.com/rafael-mané/profil/spieler/12006"
+    },
+    {
+      "id": "Poland_6",
+      "name": "Luca Smith",
+      "nation": "Poland",
+      "age": 27,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 14.7,
+      "profileUrl": "https://www.transfermarkt.com/luca-smith/profil/spieler/12007"
+    },
+    {
+      "id": "Poland_7",
+      "name": "Adam Foden",
+      "nation": "Poland",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Wolfsburg",
+      "marketValue": 17.2,
+      "profileUrl": "https://www.transfermarkt.com/adam-foden/profil/spieler/12008"
+    },
+    {
+      "id": "Poland_8",
+      "name": "Antoine Félix",
+      "nation": "Poland",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 10.4,
+      "profileUrl": "https://www.transfermarkt.com/antoine-félix/profil/spieler/12009"
+    },
+    {
+      "id": "Poland_9",
+      "name": "Karim Diop",
+      "nation": "Poland",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Lazio",
+      "marketValue": 8.7,
+      "profileUrl": "https://www.transfermarkt.com/karim-diop/profil/spieler/12010"
+    },
+    {
+      "id": "Poland_10",
+      "name": "Adam Bellingham",
+      "nation": "Poland",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 27.6,
+      "profileUrl": "https://www.transfermarkt.com/adam-bellingham/profil/spieler/12011"
+    },
+    {
+      "id": "Poland_11",
+      "name": "Tomas Fischer",
+      "nation": "Poland",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Brighton",
+      "marketValue": 35.7,
+      "profileUrl": "https://www.transfermarkt.com/tomas-fischer/profil/spieler/12012"
+    },
+    {
+      "id": "Poland_12",
+      "name": "Erling Salah",
+      "nation": "Poland",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Brighton",
+      "marketValue": 25.7,
+      "profileUrl": "https://www.transfermarkt.com/erling-salah/profil/spieler/12013"
+    },
+    {
+      "id": "Serbia_0",
+      "name": "Harry Griezmann",
+      "nation": "Serbia",
+      "age": 27,
+      "position": "Gardien",
+      "club": "Olympique Lyonnais",
+      "marketValue": 6.7,
+      "profileUrl": "https://www.transfermarkt.com/harry-griezmann/profil/spieler/13001"
+    },
+    {
+      "id": "Serbia_1",
+      "name": "Takumi Rodriguez",
+      "nation": "Serbia",
+      "age": 24,
+      "position": "Gardien",
+      "club": "Real Sociedad",
+      "marketValue": 12.4,
+      "profileUrl": "https://www.transfermarkt.com/takumi-rodriguez/profil/spieler/13002"
+    },
+    {
+      "id": "Serbia_2",
+      "name": "Bruno Fischer",
+      "nation": "Serbia",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 24.5,
+      "profileUrl": "https://www.transfermarkt.com/bruno-fischer/profil/spieler/13003"
+    },
+    {
+      "id": "Serbia_3",
+      "name": "Pedri Casemiro",
+      "nation": "Serbia",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "Fiorentina",
+      "marketValue": 18.8,
+      "profileUrl": "https://www.transfermarkt.com/pedri-casemiro/profil/spieler/13004"
+    },
+    {
+      "id": "Serbia_4",
+      "name": "Antoine Martinez",
+      "nation": "Serbia",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Sporting CP",
+      "marketValue": 11.1,
+      "profileUrl": "https://www.transfermarkt.com/antoine-martinez/profil/spieler/13005"
+    },
+    {
+      "id": "Serbia_5",
+      "name": "Pedro Kimmich",
+      "nation": "Serbia",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 10.2,
+      "profileUrl": "https://www.transfermarkt.com/pedro-kimmich/profil/spieler/13006"
+    },
+    {
+      "id": "Serbia_6",
+      "name": "James Müller",
+      "nation": "Serbia",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 10.6,
+      "profileUrl": "https://www.transfermarkt.com/james-müller/profil/spieler/13007"
+    },
+    {
+      "id": "Serbia_7",
+      "name": "Luca Rodriguez",
+      "nation": "Serbia",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 26.8,
+      "profileUrl": "https://www.transfermarkt.com/luca-rodriguez/profil/spieler/13008"
+    },
+    {
+      "id": "Serbia_8",
+      "name": "Jan Fernandes",
+      "nation": "Serbia",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Lazio",
+      "marketValue": 19.1,
+      "profileUrl": "https://www.transfermarkt.com/jan-fernandes/profil/spieler/13009"
+    },
+    {
+      "id": "Serbia_9",
+      "name": "Erling Mendy",
+      "nation": "Serbia",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 20.7,
+      "profileUrl": "https://www.transfermarkt.com/erling-mendy/profil/spieler/13010"
+    },
+    {
+      "id": "Serbia_10",
+      "name": "Jude Leão",
+      "nation": "Serbia",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Lazio",
+      "marketValue": 23,
+      "profileUrl": "https://www.transfermarkt.com/jude-leão/profil/spieler/13011"
+    },
+    {
+      "id": "Serbia_11",
+      "name": "Takumi Martinez",
+      "nation": "Serbia",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 44.7,
+      "profileUrl": "https://www.transfermarkt.com/takumi-martinez/profil/spieler/13012"
+    },
+    {
+      "id": "Serbia_12",
+      "name": "Phil Bernard",
+      "nation": "Serbia",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Lazio",
+      "marketValue": 20.7,
+      "profileUrl": "https://www.transfermarkt.com/phil-bernard/profil/spieler/13013"
+    },
+    {
+      "id": "Ukraine_0",
+      "name": "Mohamed Lukaku",
+      "nation": "Ukraine",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Lazio",
+      "marketValue": 10.7,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-lukaku/profil/spieler/14001"
+    },
+    {
+      "id": "Ukraine_1",
+      "name": "Erling Félix",
+      "nation": "Ukraine",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Fiorentina",
+      "marketValue": 4.6,
+      "profileUrl": "https://www.transfermarkt.com/erling-félix/profil/spieler/14002"
+    },
+    {
+      "id": "Ukraine_2",
+      "name": "Ethan Casemiro",
+      "nation": "Ukraine",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Lazio",
+      "marketValue": 7.1,
+      "profileUrl": "https://www.transfermarkt.com/ethan-casemiro/profil/spieler/14003"
+    },
+    {
+      "id": "Ukraine_3",
+      "name": "Oliver Ziyech",
+      "nation": "Ukraine",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 22.8,
+      "profileUrl": "https://www.transfermarkt.com/oliver-ziyech/profil/spieler/14004"
+    },
+    {
+      "id": "Ukraine_4",
+      "name": "Erling Smith",
+      "nation": "Ukraine",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 9.5,
+      "profileUrl": "https://www.transfermarkt.com/erling-smith/profil/spieler/14005"
+    },
+    {
+      "id": "Ukraine_5",
+      "name": "Carlos Tchouaméni",
+      "nation": "Ukraine",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Olympique Lyonnais",
+      "marketValue": 9.8,
+      "profileUrl": "https://www.transfermarkt.com/carlos-tchouaméni/profil/spieler/14006"
+    },
+    {
+      "id": "Ukraine_6",
+      "name": "Mateo Vinicius",
+      "nation": "Ukraine",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Marseille",
+      "marketValue": 24.3,
+      "profileUrl": "https://www.transfermarkt.com/mateo-vinicius/profil/spieler/14007"
+    },
+    {
+      "id": "Ukraine_7",
+      "name": "Leo Williams",
+      "nation": "Ukraine",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Marseille",
+      "marketValue": 34,
+      "profileUrl": "https://www.transfermarkt.com/leo-williams/profil/spieler/14008"
+    },
+    {
+      "id": "Ukraine_8",
+      "name": "Marco González",
+      "nation": "Ukraine",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Valencia",
+      "marketValue": 29.6,
+      "profileUrl": "https://www.transfermarkt.com/marco-gonzález/profil/spieler/14009"
+    },
+    {
+      "id": "Ukraine_9",
+      "name": "David Yamamoto",
+      "nation": "Ukraine",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 17,
+      "profileUrl": "https://www.transfermarkt.com/david-yamamoto/profil/spieler/14010"
+    },
+    {
+      "id": "Ukraine_10",
+      "name": "Antoine Diaz",
+      "nation": "Ukraine",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Olympique Lyonnais",
+      "marketValue": 20,
+      "profileUrl": "https://www.transfermarkt.com/antoine-diaz/profil/spieler/14011"
+    },
+    {
+      "id": "Ukraine_11",
+      "name": "Noah Garcia",
+      "nation": "Ukraine",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Valencia",
+      "marketValue": 39.7,
+      "profileUrl": "https://www.transfermarkt.com/noah-garcia/profil/spieler/14012"
+    },
+    {
+      "id": "Ukraine_12",
+      "name": "Mateo Silva",
+      "nation": "Ukraine",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Sevilla",
+      "marketValue": 18.3,
+      "profileUrl": "https://www.transfermarkt.com/mateo-silva/profil/spieler/14013"
+    },
+    {
+      "id": "Turkey_0",
+      "name": "Aurélien Tanaka",
+      "nation": "Turkey",
+      "age": 32,
+      "position": "Gardien",
+      "club": "Valencia",
+      "marketValue": 7.3,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-tanaka/profil/spieler/15001"
+    },
+    {
+      "id": "Turkey_1",
+      "name": "Carlos Leão",
+      "nation": "Turkey",
+      "age": 26,
+      "position": "Gardien",
+      "club": "Olympique Lyonnais",
+      "marketValue": 5.2,
+      "profileUrl": "https://www.transfermarkt.com/carlos-leão/profil/spieler/15002"
+    },
+    {
+      "id": "Turkey_2",
+      "name": "Min-jun Kimmich",
+      "nation": "Turkey",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Valencia",
+      "marketValue": 6.1,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-kimmich/profil/spieler/15003"
+    },
+    {
+      "id": "Turkey_3",
+      "name": "Mateo Vinicius",
+      "nation": "Turkey",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 22.3,
+      "profileUrl": "https://www.transfermarkt.com/mateo-vinicius/profil/spieler/15004"
+    },
+    {
+      "id": "Turkey_4",
+      "name": "Bruno Salah",
+      "nation": "Turkey",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Fiorentina",
+      "marketValue": 7.4,
+      "profileUrl": "https://www.transfermarkt.com/bruno-salah/profil/spieler/15005"
+    },
+    {
+      "id": "Turkey_5",
+      "name": "Erling Bellingham",
+      "nation": "Turkey",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 18.7,
+      "profileUrl": "https://www.transfermarkt.com/erling-bellingham/profil/spieler/15006"
+    },
+    {
+      "id": "Turkey_6",
+      "name": "Leo Brown",
+      "nation": "Turkey",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Fiorentina",
+      "marketValue": 27.8,
+      "profileUrl": "https://www.transfermarkt.com/leo-brown/profil/spieler/15007"
+    },
+    {
+      "id": "Turkey_7",
+      "name": "Pedri Smith",
+      "nation": "Turkey",
+      "age": 27,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 27.6,
+      "profileUrl": "https://www.transfermarkt.com/pedri-smith/profil/spieler/15008"
+    },
+    {
+      "id": "Turkey_8",
+      "name": "Erling Ferrari",
+      "nation": "Turkey",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 6.4,
+      "profileUrl": "https://www.transfermarkt.com/erling-ferrari/profil/spieler/15009"
+    },
+    {
+      "id": "Turkey_9",
+      "name": "Luca Rashford",
+      "nation": "Turkey",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 34.3,
+      "profileUrl": "https://www.transfermarkt.com/luca-rashford/profil/spieler/15010"
+    },
+    {
+      "id": "Turkey_10",
+      "name": "Carlos Bernard",
+      "nation": "Turkey",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Brighton",
+      "marketValue": 12.6,
+      "profileUrl": "https://www.transfermarkt.com/carlos-bernard/profil/spieler/15011"
+    },
+    {
+      "id": "Turkey_11",
+      "name": "Rafael Vinicius",
+      "nation": "Turkey",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Olympique Lyonnais",
+      "marketValue": 10,
+      "profileUrl": "https://www.transfermarkt.com/rafael-vinicius/profil/spieler/15012"
+    },
+    {
+      "id": "Turkey_12",
+      "name": "Bukayo Silva",
+      "nation": "Turkey",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Sevilla",
+      "marketValue": 19.4,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-silva/profil/spieler/15013"
+    },
+    {
+      "id": "Argentina_0",
+      "name": "Kai Schmidt",
+      "nation": "Argentina",
+      "age": 27,
+      "position": "Gardien",
+      "club": "PSG",
+      "marketValue": 35.1,
+      "profileUrl": "https://www.transfermarkt.com/kai-schmidt/profil/spieler/16001"
+    },
+    {
+      "id": "Argentina_1",
+      "name": "Rafael Ziyech",
+      "nation": "Argentina",
+      "age": 22,
+      "position": "Gardien",
+      "club": "Chelsea",
+      "marketValue": 30.6,
+      "profileUrl": "https://www.transfermarkt.com/rafael-ziyech/profil/spieler/16002"
+    },
+    {
+      "id": "Argentina_2",
+      "name": "Lucas Jones",
+      "nation": "Argentina",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 79,
+      "profileUrl": "https://www.transfermarkt.com/lucas-jones/profil/spieler/16003"
+    },
+    {
+      "id": "Argentina_3",
+      "name": "Bruno Casemiro",
+      "nation": "Argentina",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "PSG",
+      "marketValue": 69,
+      "profileUrl": "https://www.transfermarkt.com/bruno-casemiro/profil/spieler/16004"
+    },
+    {
+      "id": "Argentina_4",
+      "name": "Oliver Kim",
+      "nation": "Argentina",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Chelsea",
+      "marketValue": 63.5,
+      "profileUrl": "https://www.transfermarkt.com/oliver-kim/profil/spieler/16005"
+    },
+    {
+      "id": "Argentina_5",
+      "name": "Noah Leão",
+      "nation": "Argentina",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Bayern Munich",
+      "marketValue": 73,
+      "profileUrl": "https://www.transfermarkt.com/noah-leão/profil/spieler/16006"
+    },
+    {
+      "id": "Argentina_6",
+      "name": "Liam Rashford",
+      "nation": "Argentina",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Atlético Madrid",
+      "marketValue": 124.9,
+      "profileUrl": "https://www.transfermarkt.com/liam-rashford/profil/spieler/16007"
+    },
+    {
+      "id": "Argentina_7",
+      "name": "Ali Romano",
+      "nation": "Argentina",
+      "age": 27,
+      "position": "Milieu",
+      "club": "Arsenal",
+      "marketValue": 98.8,
+      "profileUrl": "https://www.transfermarkt.com/ali-romano/profil/spieler/16008"
+    },
+    {
+      "id": "Argentina_8",
+      "name": "Phil Fischer",
+      "nation": "Argentina",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Manchester City",
+      "marketValue": 160.2,
+      "profileUrl": "https://www.transfermarkt.com/phil-fischer/profil/spieler/16009"
+    },
+    {
+      "id": "Argentina_9",
+      "name": "Romelu Müller",
+      "nation": "Argentina",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Barcelona",
+      "marketValue": 149,
+      "profileUrl": "https://www.transfermarkt.com/romelu-müller/profil/spieler/16010"
+    },
+    {
+      "id": "Argentina_10",
+      "name": "Jan Vinicius",
+      "nation": "Argentina",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "PSG",
+      "marketValue": 187.9,
+      "profileUrl": "https://www.transfermarkt.com/jan-vinicius/profil/spieler/16011"
+    },
+    {
+      "id": "Argentina_11",
+      "name": "Takumi Kimmich",
+      "nation": "Argentina",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Arsenal",
+      "marketValue": 129.1,
+      "profileUrl": "https://www.transfermarkt.com/takumi-kimmich/profil/spieler/16012"
+    },
+    {
+      "id": "Argentina_12",
+      "name": "Leo Williams",
+      "nation": "Argentina",
+      "age": 31,
+      "position": "Attaquant",
+      "club": "Juventus",
+      "marketValue": 178.1,
+      "profileUrl": "https://www.transfermarkt.com/leo-williams/profil/spieler/16013"
+    },
+    {
+      "id": "Brazil_0",
+      "name": "James Müller",
+      "nation": "Brazil",
+      "age": 25,
+      "position": "Gardien",
+      "club": "Bayern Munich",
+      "marketValue": 37.9,
+      "profileUrl": "https://www.transfermarkt.com/james-müller/profil/spieler/17001"
+    },
+    {
+      "id": "Brazil_1",
+      "name": "Diego Fernandes",
+      "nation": "Brazil",
+      "age": 33,
+      "position": "Gardien",
+      "club": "PSG",
+      "marketValue": 30.2,
+      "profileUrl": "https://www.transfermarkt.com/diego-fernandes/profil/spieler/17002"
+    },
+    {
+      "id": "Brazil_2",
+      "name": "João Kimmich",
+      "nation": "Brazil",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Liverpool",
+      "marketValue": 43.2,
+      "profileUrl": "https://www.transfermarkt.com/joão-kimmich/profil/spieler/17003"
+    },
+    {
+      "id": "Brazil_3",
+      "name": "Ali Mbappé",
+      "nation": "Brazil",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Barcelona",
+      "marketValue": 48.7,
+      "profileUrl": "https://www.transfermarkt.com/ali-mbappé/profil/spieler/17004"
+    },
+    {
+      "id": "Brazil_4",
+      "name": "Jude Garcia",
+      "nation": "Brazil",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Inter Milan",
+      "marketValue": 75.9,
+      "profileUrl": "https://www.transfermarkt.com/jude-garcia/profil/spieler/17005"
+    },
+    {
+      "id": "Brazil_5",
+      "name": "Ethan Sato",
+      "nation": "Brazil",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "Bayern Munich",
+      "marketValue": 34.2,
+      "profileUrl": "https://www.transfermarkt.com/ethan-sato/profil/spieler/17006"
+    },
+    {
+      "id": "Brazil_6",
+      "name": "Sadio Bellingham",
+      "nation": "Brazil",
+      "age": 27,
+      "position": "Milieu",
+      "club": "PSG",
+      "marketValue": 163.4,
+      "profileUrl": "https://www.transfermarkt.com/sadio-bellingham/profil/spieler/17007"
+    },
+    {
+      "id": "Brazil_7",
+      "name": "Luca Osimhen",
+      "nation": "Brazil",
+      "age": 35,
+      "position": "Milieu",
+      "club": "PSG",
+      "marketValue": 155.2,
+      "profileUrl": "https://www.transfermarkt.com/luca-osimhen/profil/spieler/17008"
+    },
+    {
+      "id": "Brazil_8",
+      "name": "Marco Rossi",
+      "nation": "Brazil",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Real Madrid",
+      "marketValue": 127.7,
+      "profileUrl": "https://www.transfermarkt.com/marco-rossi/profil/spieler/17009"
+    },
+    {
+      "id": "Brazil_9",
+      "name": "Hiroshi Félix",
+      "nation": "Brazil",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Chelsea",
+      "marketValue": 64.1,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-félix/profil/spieler/17010"
+    },
+    {
+      "id": "Brazil_10",
+      "name": "Romelu Rodriguez",
+      "nation": "Brazil",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Liverpool",
+      "marketValue": 126.4,
+      "profileUrl": "https://www.transfermarkt.com/romelu-rodriguez/profil/spieler/17011"
+    },
+    {
+      "id": "Brazil_11",
+      "name": "Noah Bellingham",
+      "nation": "Brazil",
+      "age": 31,
+      "position": "Attaquant",
+      "club": "Juventus",
+      "marketValue": 80,
+      "profileUrl": "https://www.transfermarkt.com/noah-bellingham/profil/spieler/17012"
+    },
+    {
+      "id": "Brazil_12",
+      "name": "James Williams",
+      "nation": "Brazil",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Juventus",
+      "marketValue": 94.8,
+      "profileUrl": "https://www.transfermarkt.com/james-williams/profil/spieler/17013"
+    },
+    {
+      "id": "Uruguay_0",
+      "name": "Jan Kimmich",
+      "nation": "Uruguay",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Atalanta",
+      "marketValue": 16.2,
+      "profileUrl": "https://www.transfermarkt.com/jan-kimmich/profil/spieler/18001"
+    },
+    {
+      "id": "Uruguay_1",
+      "name": "Phil Bellingham",
+      "nation": "Uruguay",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Newcastle",
+      "marketValue": 15.8,
+      "profileUrl": "https://www.transfermarkt.com/phil-bellingham/profil/spieler/18002"
+    },
+    {
+      "id": "Uruguay_2",
+      "name": "Hiroshi Lukaku",
+      "nation": "Uruguay",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 36.1,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-lukaku/profil/spieler/18003"
+    },
+    {
+      "id": "Uruguay_3",
+      "name": "Erling Mané",
+      "nation": "Uruguay",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Bayer Leverkusen",
+      "marketValue": 19.7,
+      "profileUrl": "https://www.transfermarkt.com/erling-mané/profil/spieler/18004"
+    },
+    {
+      "id": "Uruguay_4",
+      "name": "Kylian Martinez",
+      "nation": "Uruguay",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Tottenham",
+      "marketValue": 48.2,
+      "profileUrl": "https://www.transfermarkt.com/kylian-martinez/profil/spieler/18005"
+    },
+    {
+      "id": "Uruguay_5",
+      "name": "Bukayo Garcia",
+      "nation": "Uruguay",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Napoli",
+      "marketValue": 43.6,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-garcia/profil/spieler/18006"
+    },
+    {
+      "id": "Uruguay_6",
+      "name": "Ali Silva",
+      "nation": "Uruguay",
+      "age": 26,
+      "position": "Milieu",
+      "club": "AC Milan",
+      "marketValue": 64.2,
+      "profileUrl": "https://www.transfermarkt.com/ali-silva/profil/spieler/18007"
+    },
+    {
+      "id": "Uruguay_7",
+      "name": "Takumi Kimmich",
+      "nation": "Uruguay",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Borussia Dortmund",
+      "marketValue": 69.9,
+      "profileUrl": "https://www.transfermarkt.com/takumi-kimmich/profil/spieler/18008"
+    },
+    {
+      "id": "Uruguay_8",
+      "name": "Stefan Schmidt",
+      "nation": "Uruguay",
+      "age": 30,
+      "position": "Milieu",
+      "club": "RB Leipzig",
+      "marketValue": 67.3,
+      "profileUrl": "https://www.transfermarkt.com/stefan-schmidt/profil/spieler/18009"
+    },
+    {
+      "id": "Uruguay_9",
+      "name": "Lamine Foden",
+      "nation": "Uruguay",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Tottenham",
+      "marketValue": 68.7,
+      "profileUrl": "https://www.transfermarkt.com/lamine-foden/profil/spieler/18010"
+    },
+    {
+      "id": "Uruguay_10",
+      "name": "Marco González",
+      "nation": "Uruguay",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Borussia Dortmund",
+      "marketValue": 45.3,
+      "profileUrl": "https://www.transfermarkt.com/marco-gonzález/profil/spieler/18011"
+    },
+    {
+      "id": "Uruguay_11",
+      "name": "Diego Ferrari",
+      "nation": "Uruguay",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "RB Leipzig",
+      "marketValue": 49.2,
+      "profileUrl": "https://www.transfermarkt.com/diego-ferrari/profil/spieler/18012"
+    },
+    {
+      "id": "Uruguay_12",
+      "name": "Daniel Tchouaméni",
+      "nation": "Uruguay",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "RB Leipzig",
+      "marketValue": 45.2,
+      "profileUrl": "https://www.transfermarkt.com/daniel-tchouaméni/profil/spieler/18013"
+    },
+    {
+      "id": "Colombia_0",
+      "name": "Ibrahim Mbappé",
+      "nation": "Colombia",
+      "age": 27,
+      "position": "Gardien",
+      "club": "Benfica",
+      "marketValue": 25,
+      "profileUrl": "https://www.transfermarkt.com/ibrahim-mbappé/profil/spieler/19001"
+    },
+    {
+      "id": "Colombia_1",
+      "name": "Aurélien Félix",
+      "nation": "Colombia",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Borussia Dortmund",
+      "marketValue": 10.9,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-félix/profil/spieler/19002"
+    },
+    {
+      "id": "Colombia_2",
+      "name": "Hiroshi Lukaku",
+      "nation": "Colombia",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Atalanta",
+      "marketValue": 28.4,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-lukaku/profil/spieler/19003"
+    },
+    {
+      "id": "Colombia_3",
+      "name": "Diego Touré",
+      "nation": "Colombia",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Porto",
+      "marketValue": 19.7,
+      "profileUrl": "https://www.transfermarkt.com/diego-touré/profil/spieler/19004"
+    },
+    {
+      "id": "Colombia_4",
+      "name": "Leo Diaz",
+      "nation": "Colombia",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 40.6,
+      "profileUrl": "https://www.transfermarkt.com/leo-diaz/profil/spieler/19005"
+    },
+    {
+      "id": "Colombia_5",
+      "name": "Kai Sato",
+      "nation": "Colombia",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 23.9,
+      "profileUrl": "https://www.transfermarkt.com/kai-sato/profil/spieler/19006"
+    },
+    {
+      "id": "Colombia_6",
+      "name": "Jan Lukaku",
+      "nation": "Colombia",
+      "age": 26,
+      "position": "Milieu",
+      "club": "AC Milan",
+      "marketValue": 61.5,
+      "profileUrl": "https://www.transfermarkt.com/jan-lukaku/profil/spieler/19007"
+    },
+    {
+      "id": "Colombia_7",
+      "name": "João Tchouaméni",
+      "nation": "Colombia",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Borussia Dortmund",
+      "marketValue": 21.6,
+      "profileUrl": "https://www.transfermarkt.com/joão-tchouaméni/profil/spieler/19008"
+    },
+    {
+      "id": "Colombia_8",
+      "name": "Carlos Dubois",
+      "nation": "Colombia",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Atalanta",
+      "marketValue": 52.1,
+      "profileUrl": "https://www.transfermarkt.com/carlos-dubois/profil/spieler/19009"
+    },
+    {
+      "id": "Colombia_9",
+      "name": "Adam Mendy",
+      "nation": "Colombia",
+      "age": 27,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 37.4,
+      "profileUrl": "https://www.transfermarkt.com/adam-mendy/profil/spieler/19010"
+    },
+    {
+      "id": "Colombia_10",
+      "name": "Adam Ziyech",
+      "nation": "Colombia",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "RB Leipzig",
+      "marketValue": 47.1,
+      "profileUrl": "https://www.transfermarkt.com/adam-ziyech/profil/spieler/19011"
+    },
+    {
+      "id": "Colombia_11",
+      "name": "Hassan Mané",
+      "nation": "Colombia",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Bayer Leverkusen",
+      "marketValue": 74,
+      "profileUrl": "https://www.transfermarkt.com/hassan-mané/profil/spieler/19012"
+    },
+    {
+      "id": "Colombia_12",
+      "name": "Pedri Saka",
+      "nation": "Colombia",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Tottenham",
+      "marketValue": 54.1,
+      "profileUrl": "https://www.transfermarkt.com/pedri-saka/profil/spieler/19013"
+    },
+    {
+      "id": "Ecuador_0",
+      "name": "Kylian Touré",
+      "nation": "Ecuador",
+      "age": 21,
+      "position": "Gardien",
+      "club": "Real Sociedad",
+      "marketValue": 12.9,
+      "profileUrl": "https://www.transfermarkt.com/kylian-touré/profil/spieler/20001"
+    },
+    {
+      "id": "Ecuador_1",
+      "name": "Romelu Casemiro",
+      "nation": "Ecuador",
+      "age": 28,
+      "position": "Gardien",
+      "club": "Brighton",
+      "marketValue": 9.9,
+      "profileUrl": "https://www.transfermarkt.com/romelu-casemiro/profil/spieler/20002"
+    },
+    {
+      "id": "Ecuador_2",
+      "name": "Karim Santos",
+      "nation": "Ecuador",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 16.1,
+      "profileUrl": "https://www.transfermarkt.com/karim-santos/profil/spieler/20003"
+    },
+    {
+      "id": "Ecuador_3",
+      "name": "Pedro Mané",
+      "nation": "Ecuador",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Lazio",
+      "marketValue": 9.1,
+      "profileUrl": "https://www.transfermarkt.com/pedro-mané/profil/spieler/20004"
+    },
+    {
+      "id": "Ecuador_4",
+      "name": "Liam Dubois",
+      "nation": "Ecuador",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Valencia",
+      "marketValue": 16.5,
+      "profileUrl": "https://www.transfermarkt.com/liam-dubois/profil/spieler/20005"
+    },
+    {
+      "id": "Ecuador_5",
+      "name": "Niko Traoré",
+      "nation": "Ecuador",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Lazio",
+      "marketValue": 10.6,
+      "profileUrl": "https://www.transfermarkt.com/niko-traoré/profil/spieler/20006"
+    },
+    {
+      "id": "Ecuador_6",
+      "name": "Tomas Romano",
+      "nation": "Ecuador",
+      "age": 27,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 24,
+      "profileUrl": "https://www.transfermarkt.com/tomas-romano/profil/spieler/20007"
+    },
+    {
+      "id": "Ecuador_7",
+      "name": "Harry Schmidt",
+      "nation": "Ecuador",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Lazio",
+      "marketValue": 26.8,
+      "profileUrl": "https://www.transfermarkt.com/harry-schmidt/profil/spieler/20008"
+    },
+    {
+      "id": "Ecuador_8",
+      "name": "Hugo Touré",
+      "nation": "Ecuador",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Wolfsburg",
+      "marketValue": 29.7,
+      "profileUrl": "https://www.transfermarkt.com/hugo-touré/profil/spieler/20009"
+    },
+    {
+      "id": "Ecuador_9",
+      "name": "Kai Hakimi",
+      "nation": "Ecuador",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Brighton",
+      "marketValue": 34.7,
+      "profileUrl": "https://www.transfermarkt.com/kai-hakimi/profil/spieler/20010"
+    },
+    {
+      "id": "Ecuador_10",
+      "name": "David Lopez",
+      "nation": "Ecuador",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Lazio",
+      "marketValue": 43.4,
+      "profileUrl": "https://www.transfermarkt.com/david-lopez/profil/spieler/20011"
+    },
+    {
+      "id": "Ecuador_11",
+      "name": "Bukayo Silva",
+      "nation": "Ecuador",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 21.4,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-silva/profil/spieler/20012"
+    },
+    {
+      "id": "Ecuador_12",
+      "name": "Mateo Rodriguez",
+      "nation": "Ecuador",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 8.2,
+      "profileUrl": "https://www.transfermarkt.com/mateo-rodriguez/profil/spieler/20013"
+    },
+    {
+      "id": "Paraguay_0",
+      "name": "Karim Rodriguez",
+      "nation": "Paraguay",
+      "age": 31,
+      "position": "Gardien",
+      "club": "Valencia",
+      "marketValue": 6.2,
+      "profileUrl": "https://www.transfermarkt.com/karim-rodriguez/profil/spieler/21001"
+    },
+    {
+      "id": "Paraguay_1",
+      "name": "Noah Tchouaméni",
+      "nation": "Paraguay",
+      "age": 28,
+      "position": "Gardien",
+      "club": "Sporting CP",
+      "marketValue": 10.7,
+      "profileUrl": "https://www.transfermarkt.com/noah-tchouaméni/profil/spieler/21002"
+    },
+    {
+      "id": "Paraguay_2",
+      "name": "Marco Martin",
+      "nation": "Paraguay",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 20.8,
+      "profileUrl": "https://www.transfermarkt.com/marco-martin/profil/spieler/21003"
+    },
+    {
+      "id": "Paraguay_3",
+      "name": "Diego Rodrygo",
+      "nation": "Paraguay",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 9,
+      "profileUrl": "https://www.transfermarkt.com/diego-rodrygo/profil/spieler/21004"
+    },
+    {
+      "id": "Paraguay_4",
+      "name": "Mohamed Rashford",
+      "nation": "Paraguay",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 15.2,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-rashford/profil/spieler/21005"
+    },
+    {
+      "id": "Paraguay_5",
+      "name": "Juan Rodriguez",
+      "nation": "Paraguay",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 5.3,
+      "profileUrl": "https://www.transfermarkt.com/juan-rodriguez/profil/spieler/21006"
+    },
+    {
+      "id": "Paraguay_6",
+      "name": "Aurélien Dubois",
+      "nation": "Paraguay",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 21.1,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-dubois/profil/spieler/21007"
+    },
+    {
+      "id": "Paraguay_7",
+      "name": "Marco Rodrygo",
+      "nation": "Paraguay",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Fiorentina",
+      "marketValue": 28.7,
+      "profileUrl": "https://www.transfermarkt.com/marco-rodrygo/profil/spieler/21008"
+    },
+    {
+      "id": "Paraguay_8",
+      "name": "Diego Kimmich",
+      "nation": "Paraguay",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Wolfsburg",
+      "marketValue": 7.1,
+      "profileUrl": "https://www.transfermarkt.com/diego-kimmich/profil/spieler/21009"
+    },
+    {
+      "id": "Paraguay_9",
+      "name": "Leo Salah",
+      "nation": "Paraguay",
+      "age": 24,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 15,
+      "profileUrl": "https://www.transfermarkt.com/leo-salah/profil/spieler/21010"
+    },
+    {
+      "id": "Paraguay_10",
+      "name": "Pedri Rodriguez",
+      "nation": "Paraguay",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Olympique Lyonnais",
+      "marketValue": 43.5,
+      "profileUrl": "https://www.transfermarkt.com/pedri-rodriguez/profil/spieler/21011"
+    },
+    {
+      "id": "Paraguay_11",
+      "name": "João Smith",
+      "nation": "Paraguay",
+      "age": 34,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 24.4,
+      "profileUrl": "https://www.transfermarkt.com/joão-smith/profil/spieler/21012"
+    },
+    {
+      "id": "Paraguay_12",
+      "name": "Stefan Kimmich",
+      "nation": "Paraguay",
+      "age": 35,
+      "position": "Attaquant",
+      "club": "Wolfsburg",
+      "marketValue": 27.5,
+      "profileUrl": "https://www.transfermarkt.com/stefan-kimmich/profil/spieler/21013"
+    },
+    {
+      "id": "USA_0",
+      "name": "Jan Tanaka",
+      "nation": "USA",
+      "age": 31,
+      "position": "Gardien",
+      "club": "Bayer Leverkusen",
+      "marketValue": 12.8,
+      "profileUrl": "https://www.transfermarkt.com/jan-tanaka/profil/spieler/22001"
+    },
+    {
+      "id": "USA_1",
+      "name": "Hassan Tanaka",
+      "nation": "USA",
+      "age": 27,
+      "position": "Gardien",
+      "club": "Napoli",
+      "marketValue": 19.2,
+      "profileUrl": "https://www.transfermarkt.com/hassan-tanaka/profil/spieler/22002"
+    },
+    {
+      "id": "USA_2",
+      "name": "Ali Vinicius",
+      "nation": "USA",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 22.4,
+      "profileUrl": "https://www.transfermarkt.com/ali-vinicius/profil/spieler/22003"
+    },
+    {
+      "id": "USA_3",
+      "name": "Nico Müller",
+      "nation": "USA",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Tottenham",
+      "marketValue": 47.3,
+      "profileUrl": "https://www.transfermarkt.com/nico-müller/profil/spieler/22004"
+    },
+    {
+      "id": "USA_4",
+      "name": "Florian Müller",
+      "nation": "USA",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Benfica",
+      "marketValue": 38.6,
+      "profileUrl": "https://www.transfermarkt.com/florian-müller/profil/spieler/22005"
+    },
+    {
+      "id": "USA_5",
+      "name": "Pedro Rodrygo",
+      "nation": "USA",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Aston Villa",
+      "marketValue": 49.9,
+      "profileUrl": "https://www.transfermarkt.com/pedro-rodrygo/profil/spieler/22006"
+    },
+    {
+      "id": "USA_6",
+      "name": "Mateo Rodriguez",
+      "nation": "USA",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Napoli",
+      "marketValue": 48.4,
+      "profileUrl": "https://www.transfermarkt.com/mateo-rodriguez/profil/spieler/22007"
+    },
+    {
+      "id": "USA_7",
+      "name": "Hassan Rashford",
+      "nation": "USA",
+      "age": 20,
+      "position": "Milieu",
+      "club": "AC Milan",
+      "marketValue": 49.9,
+      "profileUrl": "https://www.transfermarkt.com/hassan-rashford/profil/spieler/22008"
+    },
+    {
+      "id": "USA_8",
+      "name": "Liam Lee",
+      "nation": "USA",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Tottenham",
+      "marketValue": 20.6,
+      "profileUrl": "https://www.transfermarkt.com/liam-lee/profil/spieler/22009"
+    },
+    {
+      "id": "USA_9",
+      "name": "Pedri Vinicius",
+      "nation": "USA",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 45.6,
+      "profileUrl": "https://www.transfermarkt.com/pedri-vinicius/profil/spieler/22010"
+    },
+    {
+      "id": "USA_10",
+      "name": "Daniel Fernandes",
+      "nation": "USA",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Porto",
+      "marketValue": 59.7,
+      "profileUrl": "https://www.transfermarkt.com/daniel-fernandes/profil/spieler/22011"
+    },
+    {
+      "id": "USA_11",
+      "name": "Oliver Foden",
+      "nation": "USA",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Newcastle",
+      "marketValue": 35.8,
+      "profileUrl": "https://www.transfermarkt.com/oliver-foden/profil/spieler/22012"
+    },
+    {
+      "id": "USA_12",
+      "name": "Harry Lopez",
+      "nation": "USA",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Roma",
+      "marketValue": 44.8,
+      "profileUrl": "https://www.transfermarkt.com/harry-lopez/profil/spieler/22013"
+    },
+    {
+      "id": "Mexico_0",
+      "name": "Phil Touré",
+      "nation": "Mexico",
+      "age": 22,
+      "position": "Gardien",
+      "club": "Roma",
+      "marketValue": 20.1,
+      "profileUrl": "https://www.transfermarkt.com/phil-touré/profil/spieler/23001"
+    },
+    {
+      "id": "Mexico_1",
+      "name": "Erling Félix",
+      "nation": "Mexico",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Benfica",
+      "marketValue": 9.9,
+      "profileUrl": "https://www.transfermarkt.com/erling-félix/profil/spieler/23002"
+    },
+    {
+      "id": "Mexico_2",
+      "name": "Pedro Mendy",
+      "nation": "Mexico",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Tottenham",
+      "marketValue": 17.5,
+      "profileUrl": "https://www.transfermarkt.com/pedro-mendy/profil/spieler/23003"
+    },
+    {
+      "id": "Mexico_3",
+      "name": "Kylian Jones",
+      "nation": "Mexico",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 46.2,
+      "profileUrl": "https://www.transfermarkt.com/kylian-jones/profil/spieler/23004"
+    },
+    {
+      "id": "Mexico_4",
+      "name": "Noah Rashford",
+      "nation": "Mexico",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 31.2,
+      "profileUrl": "https://www.transfermarkt.com/noah-rashford/profil/spieler/23005"
+    },
+    {
+      "id": "Mexico_5",
+      "name": "Phil Félix",
+      "nation": "Mexico",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Benfica",
+      "marketValue": 24.9,
+      "profileUrl": "https://www.transfermarkt.com/phil-félix/profil/spieler/23006"
+    },
+    {
+      "id": "Mexico_6",
+      "name": "Jan Brown",
+      "nation": "Mexico",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 63.2,
+      "profileUrl": "https://www.transfermarkt.com/jan-brown/profil/spieler/23007"
+    },
+    {
+      "id": "Mexico_7",
+      "name": "Yassine Touré",
+      "nation": "Mexico",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 19.6,
+      "profileUrl": "https://www.transfermarkt.com/yassine-touré/profil/spieler/23008"
+    },
+    {
+      "id": "Mexico_8",
+      "name": "João Silva",
+      "nation": "Mexico",
+      "age": 27,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 34.7,
+      "profileUrl": "https://www.transfermarkt.com/joão-silva/profil/spieler/23009"
+    },
+    {
+      "id": "Mexico_9",
+      "name": "Nico Sato",
+      "nation": "Mexico",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Tottenham",
+      "marketValue": 31.6,
+      "profileUrl": "https://www.transfermarkt.com/nico-sato/profil/spieler/23010"
+    },
+    {
+      "id": "Mexico_10",
+      "name": "Bruno Schmidt",
+      "nation": "Mexico",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Tottenham",
+      "marketValue": 74.4,
+      "profileUrl": "https://www.transfermarkt.com/bruno-schmidt/profil/spieler/23011"
+    },
+    {
+      "id": "Mexico_11",
+      "name": "Mateo Bernard",
+      "nation": "Mexico",
+      "age": 35,
+      "position": "Attaquant",
+      "club": "Borussia Dortmund",
+      "marketValue": 62.1,
+      "profileUrl": "https://www.transfermarkt.com/mateo-bernard/profil/spieler/23012"
+    },
+    {
+      "id": "Mexico_12",
+      "name": "Niko Tchouaméni",
+      "nation": "Mexico",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Bayer Leverkusen",
+      "marketValue": 63.7,
+      "profileUrl": "https://www.transfermarkt.com/niko-tchouaméni/profil/spieler/23013"
+    },
+    {
+      "id": "Canada_0",
+      "name": "Ethan Bellingham",
+      "nation": "Canada",
+      "age": 21,
+      "position": "Gardien",
+      "club": "Marseille",
+      "marketValue": 6.6,
+      "profileUrl": "https://www.transfermarkt.com/ethan-bellingham/profil/spieler/24001"
+    },
+    {
+      "id": "Canada_1",
+      "name": "Hiroshi Garcia",
+      "nation": "Canada",
+      "age": 25,
+      "position": "Gardien",
+      "club": "West Ham",
+      "marketValue": 12.7,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-garcia/profil/spieler/24002"
+    },
+    {
+      "id": "Canada_2",
+      "name": "Mohamed Fernandes",
+      "nation": "Canada",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 23.9,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-fernandes/profil/spieler/24003"
+    },
+    {
+      "id": "Canada_3",
+      "name": "Ali Yamal",
+      "nation": "Canada",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 16.2,
+      "profileUrl": "https://www.transfermarkt.com/ali-yamal/profil/spieler/24004"
+    },
+    {
+      "id": "Canada_4",
+      "name": "Jan Lopez",
+      "nation": "Canada",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Olympique Lyonnais",
+      "marketValue": 11.5,
+      "profileUrl": "https://www.transfermarkt.com/jan-lopez/profil/spieler/24005"
+    },
+    {
+      "id": "Canada_5",
+      "name": "Luca Foden",
+      "nation": "Canada",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 20.4,
+      "profileUrl": "https://www.transfermarkt.com/luca-foden/profil/spieler/24006"
+    },
+    {
+      "id": "Canada_6",
+      "name": "Rafael Griezmann",
+      "nation": "Canada",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Wolfsburg",
+      "marketValue": 29.3,
+      "profileUrl": "https://www.transfermarkt.com/rafael-griezmann/profil/spieler/24007"
+    },
+    {
+      "id": "Canada_7",
+      "name": "David Kim",
+      "nation": "Canada",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 31.5,
+      "profileUrl": "https://www.transfermarkt.com/david-kim/profil/spieler/24008"
+    },
+    {
+      "id": "Canada_8",
+      "name": "Hugo Silva",
+      "nation": "Canada",
+      "age": 35,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 13.8,
+      "profileUrl": "https://www.transfermarkt.com/hugo-silva/profil/spieler/24009"
+    },
+    {
+      "id": "Canada_9",
+      "name": "Min-jun Leão",
+      "nation": "Canada",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Olympique Lyonnais",
+      "marketValue": 18,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-leão/profil/spieler/24010"
+    },
+    {
+      "id": "Canada_10",
+      "name": "James Sato",
+      "nation": "Canada",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Wolfsburg",
+      "marketValue": 10.2,
+      "profileUrl": "https://www.transfermarkt.com/james-sato/profil/spieler/24011"
+    },
+    {
+      "id": "Canada_11",
+      "name": "Pedri Smith",
+      "nation": "Canada",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "West Ham",
+      "marketValue": 31.9,
+      "profileUrl": "https://www.transfermarkt.com/pedri-smith/profil/spieler/24012"
+    },
+    {
+      "id": "Canada_12",
+      "name": "Oliver Saka",
+      "nation": "Canada",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Fiorentina",
+      "marketValue": 11.8,
+      "profileUrl": "https://www.transfermarkt.com/oliver-saka/profil/spieler/24013"
+    },
+    {
+      "id": "Costa_Rica_0",
+      "name": "James Williams",
+      "nation": "Costa Rica",
+      "age": 33,
+      "position": "Gardien",
+      "club": "LA Galaxy",
+      "marketValue": 1,
+      "profileUrl": "https://www.transfermarkt.com/james-williams/profil/spieler/25001"
+    },
+    {
+      "id": "Costa_Rica_1",
+      "name": "Diego Hakimi",
+      "nation": "Costa Rica",
+      "age": 35,
+      "position": "Gardien",
+      "club": "CF Monterrey",
+      "marketValue": 5.2,
+      "profileUrl": "https://www.transfermarkt.com/diego-hakimi/profil/spieler/25002"
+    },
+    {
+      "id": "Costa_Rica_2",
+      "name": "Bukayo Sato",
+      "nation": "Costa Rica",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Boca Juniors",
+      "marketValue": 1.3,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-sato/profil/spieler/25003"
+    },
+    {
+      "id": "Costa_Rica_3",
+      "name": "Ali Fischer",
+      "nation": "Costa Rica",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Fenerbahçe",
+      "marketValue": 6.5,
+      "profileUrl": "https://www.transfermarkt.com/ali-fischer/profil/spieler/25004"
+    },
+    {
+      "id": "Costa_Rica_4",
+      "name": "Pedro Vinicius",
+      "nation": "Costa Rica",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Local Club",
+      "marketValue": 6.7,
+      "profileUrl": "https://www.transfermarkt.com/pedro-vinicius/profil/spieler/25005"
+    },
+    {
+      "id": "Costa_Rica_5",
+      "name": "Ali Park",
+      "nation": "Costa Rica",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Boca Juniors",
+      "marketValue": 6,
+      "profileUrl": "https://www.transfermarkt.com/ali-park/profil/spieler/25006"
+    },
+    {
+      "id": "Costa_Rica_6",
+      "name": "Oliver Yamal",
+      "nation": "Costa Rica",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Palmeiras",
+      "marketValue": 7.3,
+      "profileUrl": "https://www.transfermarkt.com/oliver-yamal/profil/spieler/25007"
+    },
+    {
+      "id": "Costa_Rica_7",
+      "name": "Tomas Rossi",
+      "nation": "Costa Rica",
+      "age": 27,
+      "position": "Milieu",
+      "club": "LA Galaxy",
+      "marketValue": 11.8,
+      "profileUrl": "https://www.transfermarkt.com/tomas-rossi/profil/spieler/25008"
+    },
+    {
+      "id": "Costa_Rica_8",
+      "name": "Harry Rodrygo",
+      "nation": "Costa Rica",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Al-Nassr",
+      "marketValue": 6.6,
+      "profileUrl": "https://www.transfermarkt.com/harry-rodrygo/profil/spieler/25009"
+    },
+    {
+      "id": "Costa_Rica_9",
+      "name": "Pedro Müller",
+      "nation": "Costa Rica",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Boca Juniors",
+      "marketValue": 11.2,
+      "profileUrl": "https://www.transfermarkt.com/pedro-müller/profil/spieler/25010"
+    },
+    {
+      "id": "Costa_Rica_10",
+      "name": "Lamine Vinicius",
+      "nation": "Costa Rica",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Boca Juniors",
+      "marketValue": 4.3,
+      "profileUrl": "https://www.transfermarkt.com/lamine-vinicius/profil/spieler/25011"
+    },
+    {
+      "id": "Costa_Rica_11",
+      "name": "Lamine Rashford",
+      "nation": "Costa Rica",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Inter Miami",
+      "marketValue": 16.7,
+      "profileUrl": "https://www.transfermarkt.com/lamine-rashford/profil/spieler/25012"
+    },
+    {
+      "id": "Costa_Rica_12",
+      "name": "Daniel Salah",
+      "nation": "Costa Rica",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Palmeiras",
+      "marketValue": 10.4,
+      "profileUrl": "https://www.transfermarkt.com/daniel-salah/profil/spieler/25013"
+    },
+    {
+      "id": "Panama_0",
+      "name": "Oliver Yamal",
+      "nation": "Panama",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Al-Nassr",
+      "marketValue": 4.3,
+      "profileUrl": "https://www.transfermarkt.com/oliver-yamal/profil/spieler/26001"
+    },
+    {
+      "id": "Panama_1",
+      "name": "Victor Félix",
+      "nation": "Panama",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Inter Miami",
+      "marketValue": 1.5,
+      "profileUrl": "https://www.transfermarkt.com/victor-félix/profil/spieler/26002"
+    },
+    {
+      "id": "Panama_2",
+      "name": "Gavi Santos",
+      "nation": "Panama",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "CF Monterrey",
+      "marketValue": 2.2,
+      "profileUrl": "https://www.transfermarkt.com/gavi-santos/profil/spieler/26003"
+    },
+    {
+      "id": "Panama_3",
+      "name": "Bruno Hakimi",
+      "nation": "Panama",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Al-Nassr",
+      "marketValue": 6.8,
+      "profileUrl": "https://www.transfermarkt.com/bruno-hakimi/profil/spieler/26004"
+    },
+    {
+      "id": "Panama_4",
+      "name": "Luca Yamal",
+      "nation": "Panama",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "CF Monterrey",
+      "marketValue": 7.4,
+      "profileUrl": "https://www.transfermarkt.com/luca-yamal/profil/spieler/26005"
+    },
+    {
+      "id": "Panama_5",
+      "name": "Victor Kim",
+      "nation": "Panama",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Al-Nassr",
+      "marketValue": 7.9,
+      "profileUrl": "https://www.transfermarkt.com/victor-kim/profil/spieler/26006"
+    },
+    {
+      "id": "Panama_6",
+      "name": "Rafael Wirtz",
+      "nation": "Panama",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Al-Nassr",
+      "marketValue": 11.5,
+      "profileUrl": "https://www.transfermarkt.com/rafael-wirtz/profil/spieler/26007"
+    },
+    {
+      "id": "Panama_7",
+      "name": "Phil Leão",
+      "nation": "Panama",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Boca Juniors",
+      "marketValue": 3.6,
+      "profileUrl": "https://www.transfermarkt.com/phil-leão/profil/spieler/26008"
+    },
+    {
+      "id": "Panama_8",
+      "name": "Daniel Diaz",
+      "nation": "Panama",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Local Club",
+      "marketValue": 9,
+      "profileUrl": "https://www.transfermarkt.com/daniel-diaz/profil/spieler/26009"
+    },
+    {
+      "id": "Panama_9",
+      "name": "Ethan Fernandes",
+      "nation": "Panama",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Fenerbahçe",
+      "marketValue": 11.6,
+      "profileUrl": "https://www.transfermarkt.com/ethan-fernandes/profil/spieler/26010"
+    },
+    {
+      "id": "Panama_10",
+      "name": "Hiroshi Santos",
+      "nation": "Panama",
+      "age": 34,
+      "position": "Attaquant",
+      "club": "LA Galaxy",
+      "marketValue": 7,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-santos/profil/spieler/26011"
+    },
+    {
+      "id": "Panama_11",
+      "name": "Pedro Griezmann",
+      "nation": "Panama",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Flamengo",
+      "marketValue": 10.6,
+      "profileUrl": "https://www.transfermarkt.com/pedro-griezmann/profil/spieler/26012"
+    },
+    {
+      "id": "Panama_12",
+      "name": "Hugo Rodrygo",
+      "nation": "Panama",
+      "age": 22,
+      "position": "Attaquant",
+      "club": "Local Club",
+      "marketValue": 5.8,
+      "profileUrl": "https://www.transfermarkt.com/hugo-rodrygo/profil/spieler/26013"
+    },
+    {
+      "id": "Jamaica_0",
+      "name": "Harry Rashford",
+      "nation": "Jamaica",
+      "age": 25,
+      "position": "Gardien",
+      "club": "Toronto FC",
+      "marketValue": 1.9,
+      "profileUrl": "https://www.transfermarkt.com/harry-rashford/profil/spieler/27001"
+    },
+    {
+      "id": "Jamaica_1",
+      "name": "Liam Casemiro",
+      "nation": "Jamaica",
+      "age": 20,
+      "position": "Gardien",
+      "club": "Palmeiras",
+      "marketValue": 4.2,
+      "profileUrl": "https://www.transfermarkt.com/liam-casemiro/profil/spieler/27002"
+    },
+    {
+      "id": "Jamaica_2",
+      "name": "Noah Leão",
+      "nation": "Jamaica",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Local Club",
+      "marketValue": 5.2,
+      "profileUrl": "https://www.transfermarkt.com/noah-leão/profil/spieler/27003"
+    },
+    {
+      "id": "Jamaica_3",
+      "name": "Nico Ziyech",
+      "nation": "Jamaica",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "CF Monterrey",
+      "marketValue": 4.4,
+      "profileUrl": "https://www.transfermarkt.com/nico-ziyech/profil/spieler/27004"
+    },
+    {
+      "id": "Jamaica_4",
+      "name": "Romelu Vinicius",
+      "nation": "Jamaica",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Al-Nassr",
+      "marketValue": 2.4,
+      "profileUrl": "https://www.transfermarkt.com/romelu-vinicius/profil/spieler/27005"
+    },
+    {
+      "id": "Jamaica_5",
+      "name": "Hugo Smith",
+      "nation": "Jamaica",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Toronto FC",
+      "marketValue": 3.5,
+      "profileUrl": "https://www.transfermarkt.com/hugo-smith/profil/spieler/27006"
+    },
+    {
+      "id": "Jamaica_6",
+      "name": "Ali Leão",
+      "nation": "Jamaica",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Al-Hilal",
+      "marketValue": 6,
+      "profileUrl": "https://www.transfermarkt.com/ali-leão/profil/spieler/27007"
+    },
+    {
+      "id": "Jamaica_7",
+      "name": "Samuel Kimmich",
+      "nation": "Jamaica",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Al-Nassr",
+      "marketValue": 3.7,
+      "profileUrl": "https://www.transfermarkt.com/samuel-kimmich/profil/spieler/27008"
+    },
+    {
+      "id": "Jamaica_8",
+      "name": "Rafael Garcia",
+      "nation": "Jamaica",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Al-Nassr",
+      "marketValue": 7.2,
+      "profileUrl": "https://www.transfermarkt.com/rafael-garcia/profil/spieler/27009"
+    },
+    {
+      "id": "Jamaica_9",
+      "name": "Diego Mendy",
+      "nation": "Jamaica",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Al-Hilal",
+      "marketValue": 2.8,
+      "profileUrl": "https://www.transfermarkt.com/diego-mendy/profil/spieler/27010"
+    },
+    {
+      "id": "Jamaica_10",
+      "name": "Hassan Félix",
+      "nation": "Jamaica",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "River Plate",
+      "marketValue": 3.7,
+      "profileUrl": "https://www.transfermarkt.com/hassan-félix/profil/spieler/27011"
+    },
+    {
+      "id": "Jamaica_11",
+      "name": "Mateo Kimmich",
+      "nation": "Jamaica",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Flamengo",
+      "marketValue": 13.7,
+      "profileUrl": "https://www.transfermarkt.com/mateo-kimmich/profil/spieler/27012"
+    },
+    {
+      "id": "Jamaica_12",
+      "name": "Hiroshi Bernard",
+      "nation": "Jamaica",
+      "age": 23,
+      "position": "Attaquant",
+      "club": "Galatasaray",
+      "marketValue": 3.9,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-bernard/profil/spieler/27013"
+    },
+    {
+      "id": "Japan_0",
+      "name": "Kylian Yamal",
+      "nation": "Japan",
+      "age": 24,
+      "position": "Gardien",
+      "club": "Aston Villa",
+      "marketValue": 16.7,
+      "profileUrl": "https://www.transfermarkt.com/kylian-yamal/profil/spieler/28001"
+    },
+    {
+      "id": "Japan_1",
+      "name": "Tomas Diaz",
+      "nation": "Japan",
+      "age": 28,
+      "position": "Gardien",
+      "club": "Newcastle",
+      "marketValue": 8.3,
+      "profileUrl": "https://www.transfermarkt.com/tomas-diaz/profil/spieler/28002"
+    },
+    {
+      "id": "Japan_2",
+      "name": "João Tchouaméni",
+      "nation": "Japan",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 18.3,
+      "profileUrl": "https://www.transfermarkt.com/joão-tchouaméni/profil/spieler/28003"
+    },
+    {
+      "id": "Japan_3",
+      "name": "Hiroshi Brown",
+      "nation": "Japan",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Roma",
+      "marketValue": 38.8,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-brown/profil/spieler/28004"
+    },
+    {
+      "id": "Japan_4",
+      "name": "Adam Schmidt",
+      "nation": "Japan",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Bayer Leverkusen",
+      "marketValue": 17.2,
+      "profileUrl": "https://www.transfermarkt.com/adam-schmidt/profil/spieler/28005"
+    },
+    {
+      "id": "Japan_5",
+      "name": "Victor Yamal",
+      "nation": "Japan",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Porto",
+      "marketValue": 13.9,
+      "profileUrl": "https://www.transfermarkt.com/victor-yamal/profil/spieler/28006"
+    },
+    {
+      "id": "Japan_6",
+      "name": "Rafael Salah",
+      "nation": "Japan",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Borussia Dortmund",
+      "marketValue": 30.5,
+      "profileUrl": "https://www.transfermarkt.com/rafael-salah/profil/spieler/28007"
+    },
+    {
+      "id": "Japan_7",
+      "name": "Rafael Mendy",
+      "nation": "Japan",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Atalanta",
+      "marketValue": 60.6,
+      "profileUrl": "https://www.transfermarkt.com/rafael-mendy/profil/spieler/28008"
+    },
+    {
+      "id": "Japan_8",
+      "name": "David Smith",
+      "nation": "Japan",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 33.7,
+      "profileUrl": "https://www.transfermarkt.com/david-smith/profil/spieler/28009"
+    },
+    {
+      "id": "Japan_9",
+      "name": "Kai Diaz",
+      "nation": "Japan",
+      "age": 27,
+      "position": "Milieu",
+      "club": "Borussia Dortmund",
+      "marketValue": 63.7,
+      "profileUrl": "https://www.transfermarkt.com/kai-diaz/profil/spieler/28010"
+    },
+    {
+      "id": "Japan_10",
+      "name": "James Dubois",
+      "nation": "Japan",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Borussia Dortmund",
+      "marketValue": 22,
+      "profileUrl": "https://www.transfermarkt.com/james-dubois/profil/spieler/28011"
+    },
+    {
+      "id": "Japan_11",
+      "name": "Yassine Müller",
+      "nation": "Japan",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Newcastle",
+      "marketValue": 88.7,
+      "profileUrl": "https://www.transfermarkt.com/yassine-müller/profil/spieler/28012"
+    },
+    {
+      "id": "Japan_12",
+      "name": "Rafael Mané",
+      "nation": "Japan",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "AC Milan",
+      "marketValue": 42.8,
+      "profileUrl": "https://www.transfermarkt.com/rafael-mané/profil/spieler/28013"
+    },
+    {
+      "id": "South_Korea_0",
+      "name": "Leo Hakimi",
+      "nation": "South Korea",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Newcastle",
+      "marketValue": 19.8,
+      "profileUrl": "https://www.transfermarkt.com/leo-hakimi/profil/spieler/29001"
+    },
+    {
+      "id": "South_Korea_1",
+      "name": "Gavi Kim",
+      "nation": "South Korea",
+      "age": 27,
+      "position": "Gardien",
+      "club": "Aston Villa",
+      "marketValue": 18.1,
+      "profileUrl": "https://www.transfermarkt.com/gavi-kim/profil/spieler/29002"
+    },
+    {
+      "id": "South_Korea_2",
+      "name": "James Hakimi",
+      "nation": "South Korea",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Roma",
+      "marketValue": 23.8,
+      "profileUrl": "https://www.transfermarkt.com/james-hakimi/profil/spieler/29003"
+    },
+    {
+      "id": "South_Korea_3",
+      "name": "Adam Mané",
+      "nation": "South Korea",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Porto",
+      "marketValue": 39.4,
+      "profileUrl": "https://www.transfermarkt.com/adam-mané/profil/spieler/29004"
+    },
+    {
+      "id": "South_Korea_4",
+      "name": "Jude Silva",
+      "nation": "South Korea",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 38.3,
+      "profileUrl": "https://www.transfermarkt.com/jude-silva/profil/spieler/29005"
+    },
+    {
+      "id": "South_Korea_5",
+      "name": "Min-jun Ziyech",
+      "nation": "South Korea",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 29.4,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-ziyech/profil/spieler/29006"
+    },
+    {
+      "id": "South_Korea_6",
+      "name": "Min-jun Martinez",
+      "nation": "South Korea",
+      "age": 33,
+      "position": "Milieu",
+      "club": "AC Milan",
+      "marketValue": 41.1,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-martinez/profil/spieler/29007"
+    },
+    {
+      "id": "South_Korea_7",
+      "name": "Kylian Silva",
+      "nation": "South Korea",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 52.1,
+      "profileUrl": "https://www.transfermarkt.com/kylian-silva/profil/spieler/29008"
+    },
+    {
+      "id": "South_Korea_8",
+      "name": "Min-jun González",
+      "nation": "South Korea",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Borussia Dortmund",
+      "marketValue": 56.2,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-gonzález/profil/spieler/29009"
+    },
+    {
+      "id": "South_Korea_9",
+      "name": "Yassine Ferrari",
+      "nation": "South Korea",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Napoli",
+      "marketValue": 68.3,
+      "profileUrl": "https://www.transfermarkt.com/yassine-ferrari/profil/spieler/29010"
+    },
+    {
+      "id": "South_Korea_10",
+      "name": "Takumi Félix",
+      "nation": "South Korea",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "AC Milan",
+      "marketValue": 82,
+      "profileUrl": "https://www.transfermarkt.com/takumi-félix/profil/spieler/29011"
+    },
+    {
+      "id": "South_Korea_11",
+      "name": "Mohamed Park",
+      "nation": "South Korea",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Atalanta",
+      "marketValue": 44.5,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-park/profil/spieler/29012"
+    },
+    {
+      "id": "South_Korea_12",
+      "name": "Kylian Diop",
+      "nation": "South Korea",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "RB Leipzig",
+      "marketValue": 36.7,
+      "profileUrl": "https://www.transfermarkt.com/kylian-diop/profil/spieler/29013"
+    },
+    {
+      "id": "Iran_0",
+      "name": "Bukayo Lukaku",
+      "nation": "Iran",
+      "age": 34,
+      "position": "Gardien",
+      "club": "Real Sociedad",
+      "marketValue": 8.2,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-lukaku/profil/spieler/30001"
+    },
+    {
+      "id": "Iran_1",
+      "name": "Jude Ferrari",
+      "nation": "Iran",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Marseille",
+      "marketValue": 6.4,
+      "profileUrl": "https://www.transfermarkt.com/jude-ferrari/profil/spieler/30002"
+    },
+    {
+      "id": "Iran_2",
+      "name": "Rafael González",
+      "nation": "Iran",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Marseille",
+      "marketValue": 17.1,
+      "profileUrl": "https://www.transfermarkt.com/rafael-gonzález/profil/spieler/30003"
+    },
+    {
+      "id": "Iran_3",
+      "name": "Leo Rossi",
+      "nation": "Iran",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 15.7,
+      "profileUrl": "https://www.transfermarkt.com/leo-rossi/profil/spieler/30004"
+    },
+    {
+      "id": "Iran_4",
+      "name": "Rafael Yamamoto",
+      "nation": "Iran",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Sporting CP",
+      "marketValue": 9.4,
+      "profileUrl": "https://www.transfermarkt.com/rafael-yamamoto/profil/spieler/30005"
+    },
+    {
+      "id": "Iran_5",
+      "name": "Adam Mané",
+      "nation": "Iran",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "Sporting CP",
+      "marketValue": 7.4,
+      "profileUrl": "https://www.transfermarkt.com/adam-mané/profil/spieler/30006"
+    },
+    {
+      "id": "Iran_6",
+      "name": "Ethan Félix",
+      "nation": "Iran",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Valencia",
+      "marketValue": 22.4,
+      "profileUrl": "https://www.transfermarkt.com/ethan-félix/profil/spieler/30007"
+    },
+    {
+      "id": "Iran_7",
+      "name": "Bukayo Ziyech",
+      "nation": "Iran",
+      "age": 27,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 21.3,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-ziyech/profil/spieler/30008"
+    },
+    {
+      "id": "Iran_8",
+      "name": "Liam Wirtz",
+      "nation": "Iran",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Fiorentina",
+      "marketValue": 28,
+      "profileUrl": "https://www.transfermarkt.com/liam-wirtz/profil/spieler/30009"
+    },
+    {
+      "id": "Iran_9",
+      "name": "Ibrahim Ferrari",
+      "nation": "Iran",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 12.1,
+      "profileUrl": "https://www.transfermarkt.com/ibrahim-ferrari/profil/spieler/30010"
+    },
+    {
+      "id": "Iran_10",
+      "name": "Niko Kim",
+      "nation": "Iran",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 16,
+      "profileUrl": "https://www.transfermarkt.com/niko-kim/profil/spieler/30011"
+    },
+    {
+      "id": "Iran_11",
+      "name": "Samuel Silva",
+      "nation": "Iran",
+      "age": 34,
+      "position": "Attaquant",
+      "club": "Wolfsburg",
+      "marketValue": 14.6,
+      "profileUrl": "https://www.transfermarkt.com/samuel-silva/profil/spieler/30012"
+    },
+    {
+      "id": "Iran_12",
+      "name": "Stefan Park",
+      "nation": "Iran",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Sevilla",
+      "marketValue": 18.4,
+      "profileUrl": "https://www.transfermarkt.com/stefan-park/profil/spieler/30013"
+    },
+    {
+      "id": "Saudi_Arabia_0",
+      "name": "James Touré",
+      "nation": "Saudi Arabia",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Sevilla",
+      "marketValue": 5.1,
+      "profileUrl": "https://www.transfermarkt.com/james-touré/profil/spieler/31001"
+    },
+    {
+      "id": "Saudi_Arabia_1",
+      "name": "James Leão",
+      "nation": "Saudi Arabia",
+      "age": 21,
+      "position": "Gardien",
+      "club": "West Ham",
+      "marketValue": 12.1,
+      "profileUrl": "https://www.transfermarkt.com/james-leão/profil/spieler/31002"
+    },
+    {
+      "id": "Saudi_Arabia_2",
+      "name": "Juan González",
+      "nation": "Saudi Arabia",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 17,
+      "profileUrl": "https://www.transfermarkt.com/juan-gonzález/profil/spieler/31003"
+    },
+    {
+      "id": "Saudi_Arabia_3",
+      "name": "Liam Yamal",
+      "nation": "Saudi Arabia",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 18.9,
+      "profileUrl": "https://www.transfermarkt.com/liam-yamal/profil/spieler/31004"
+    },
+    {
+      "id": "Saudi_Arabia_4",
+      "name": "João Tchouaméni",
+      "nation": "Saudi Arabia",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 10.1,
+      "profileUrl": "https://www.transfermarkt.com/joão-tchouaméni/profil/spieler/31005"
+    },
+    {
+      "id": "Saudi_Arabia_5",
+      "name": "Bruno Vinicius",
+      "nation": "Saudi Arabia",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 17.6,
+      "profileUrl": "https://www.transfermarkt.com/bruno-vinicius/profil/spieler/31006"
+    },
+    {
+      "id": "Saudi_Arabia_6",
+      "name": "Kai Brown",
+      "nation": "Saudi Arabia",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 21.1,
+      "profileUrl": "https://www.transfermarkt.com/kai-brown/profil/spieler/31007"
+    },
+    {
+      "id": "Saudi_Arabia_7",
+      "name": "James Williams",
+      "nation": "Saudi Arabia",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Fiorentina",
+      "marketValue": 20.5,
+      "profileUrl": "https://www.transfermarkt.com/james-williams/profil/spieler/31008"
+    },
+    {
+      "id": "Saudi_Arabia_8",
+      "name": "Bruno González",
+      "nation": "Saudi Arabia",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 18.8,
+      "profileUrl": "https://www.transfermarkt.com/bruno-gonzález/profil/spieler/31009"
+    },
+    {
+      "id": "Saudi_Arabia_9",
+      "name": "Ibrahim Salah",
+      "nation": "Saudi Arabia",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 26,
+      "profileUrl": "https://www.transfermarkt.com/ibrahim-salah/profil/spieler/31010"
+    },
+    {
+      "id": "Saudi_Arabia_10",
+      "name": "Kylian Park",
+      "nation": "Saudi Arabia",
+      "age": 27,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 30.3,
+      "profileUrl": "https://www.transfermarkt.com/kylian-park/profil/spieler/31011"
+    },
+    {
+      "id": "Saudi_Arabia_11",
+      "name": "Ali Martinez",
+      "nation": "Saudi Arabia",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 27.4,
+      "profileUrl": "https://www.transfermarkt.com/ali-martinez/profil/spieler/31012"
+    },
+    {
+      "id": "Saudi_Arabia_12",
+      "name": "Bukayo Lukaku",
+      "nation": "Saudi Arabia",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Marseille",
+      "marketValue": 23.9,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-lukaku/profil/spieler/31013"
+    },
+    {
+      "id": "Australia_0",
+      "name": "David Sato",
+      "nation": "Australia",
+      "age": 26,
+      "position": "Gardien",
+      "club": "Valencia",
+      "marketValue": 3.2,
+      "profileUrl": "https://www.transfermarkt.com/david-sato/profil/spieler/32001"
+    },
+    {
+      "id": "Australia_1",
+      "name": "Bruno Kim",
+      "nation": "Australia",
+      "age": 19,
+      "position": "Gardien",
+      "club": "Marseille",
+      "marketValue": 7.5,
+      "profileUrl": "https://www.transfermarkt.com/bruno-kim/profil/spieler/32002"
+    },
+    {
+      "id": "Australia_2",
+      "name": "Rafael Martin",
+      "nation": "Australia",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 20.7,
+      "profileUrl": "https://www.transfermarkt.com/rafael-martin/profil/spieler/32003"
+    },
+    {
+      "id": "Australia_3",
+      "name": "Kai Mbappé",
+      "nation": "Australia",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 21.7,
+      "profileUrl": "https://www.transfermarkt.com/kai-mbappé/profil/spieler/32004"
+    },
+    {
+      "id": "Australia_4",
+      "name": "Lucas Bellingham",
+      "nation": "Australia",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Lazio",
+      "marketValue": 8.3,
+      "profileUrl": "https://www.transfermarkt.com/lucas-bellingham/profil/spieler/32005"
+    },
+    {
+      "id": "Australia_5",
+      "name": "Hiroshi Schmidt",
+      "nation": "Australia",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Marseille",
+      "marketValue": 17.2,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-schmidt/profil/spieler/32006"
+    },
+    {
+      "id": "Australia_6",
+      "name": "Hassan Bernard",
+      "nation": "Australia",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Lazio",
+      "marketValue": 25.1,
+      "profileUrl": "https://www.transfermarkt.com/hassan-bernard/profil/spieler/32007"
+    },
+    {
+      "id": "Australia_7",
+      "name": "Liam Rodrygo",
+      "nation": "Australia",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Olympique Lyonnais",
+      "marketValue": 12.4,
+      "profileUrl": "https://www.transfermarkt.com/liam-rodrygo/profil/spieler/32008"
+    },
+    {
+      "id": "Australia_8",
+      "name": "Yassine Ferrari",
+      "nation": "Australia",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 6,
+      "profileUrl": "https://www.transfermarkt.com/yassine-ferrari/profil/spieler/32009"
+    },
+    {
+      "id": "Australia_9",
+      "name": "Diego Williams",
+      "nation": "Australia",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 8.1,
+      "profileUrl": "https://www.transfermarkt.com/diego-williams/profil/spieler/32010"
+    },
+    {
+      "id": "Australia_10",
+      "name": "Phil Foden",
+      "nation": "Australia",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 25.7,
+      "profileUrl": "https://www.transfermarkt.com/phil-foden/profil/spieler/32011"
+    },
+    {
+      "id": "Australia_11",
+      "name": "Carlos Tanaka",
+      "nation": "Australia",
+      "age": 35,
+      "position": "Attaquant",
+      "club": "Sevilla",
+      "marketValue": 32,
+      "profileUrl": "https://www.transfermarkt.com/carlos-tanaka/profil/spieler/32012"
+    },
+    {
+      "id": "Australia_12",
+      "name": "Takumi Rodrygo",
+      "nation": "Australia",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Olympique Lyonnais",
+      "marketValue": 23.1,
+      "profileUrl": "https://www.transfermarkt.com/takumi-rodrygo/profil/spieler/32013"
+    },
+    {
+      "id": "Qatar_0",
+      "name": "Mateo Martin",
+      "nation": "Qatar",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Toronto FC",
+      "marketValue": 2.8,
+      "profileUrl": "https://www.transfermarkt.com/mateo-martin/profil/spieler/33001"
+    },
+    {
+      "id": "Qatar_1",
+      "name": "Ali Martinez",
+      "nation": "Qatar",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Inter Miami",
+      "marketValue": 4.5,
+      "profileUrl": "https://www.transfermarkt.com/ali-martinez/profil/spieler/33002"
+    },
+    {
+      "id": "Qatar_2",
+      "name": "Samuel Romano",
+      "nation": "Qatar",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "LA Galaxy",
+      "marketValue": 1.5,
+      "profileUrl": "https://www.transfermarkt.com/samuel-romano/profil/spieler/33003"
+    },
+    {
+      "id": "Qatar_3",
+      "name": "Min-jun Müller",
+      "nation": "Qatar",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "River Plate",
+      "marketValue": 8.8,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-müller/profil/spieler/33004"
+    },
+    {
+      "id": "Qatar_4",
+      "name": "Mateo Kim",
+      "nation": "Qatar",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Palmeiras",
+      "marketValue": 3.6,
+      "profileUrl": "https://www.transfermarkt.com/mateo-kim/profil/spieler/33005"
+    },
+    {
+      "id": "Qatar_5",
+      "name": "Noah Santos",
+      "nation": "Qatar",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "CF Monterrey",
+      "marketValue": 9.1,
+      "profileUrl": "https://www.transfermarkt.com/noah-santos/profil/spieler/33006"
+    },
+    {
+      "id": "Qatar_6",
+      "name": "Gavi Rossi",
+      "nation": "Qatar",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Local Club",
+      "marketValue": 11.1,
+      "profileUrl": "https://www.transfermarkt.com/gavi-rossi/profil/spieler/33007"
+    },
+    {
+      "id": "Qatar_7",
+      "name": "Bukayo Traoré",
+      "nation": "Qatar",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Palmeiras",
+      "marketValue": 5.9,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-traoré/profil/spieler/33008"
+    },
+    {
+      "id": "Qatar_8",
+      "name": "Kai Mbappé",
+      "nation": "Qatar",
+      "age": 32,
+      "position": "Milieu",
+      "club": "LA Galaxy",
+      "marketValue": 6.5,
+      "profileUrl": "https://www.transfermarkt.com/kai-mbappé/profil/spieler/33009"
+    },
+    {
+      "id": "Qatar_9",
+      "name": "Nico Yamamoto",
+      "nation": "Qatar",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Boca Juniors",
+      "marketValue": 4.8,
+      "profileUrl": "https://www.transfermarkt.com/nico-yamamoto/profil/spieler/33010"
+    },
+    {
+      "id": "Qatar_10",
+      "name": "Nico Tanaka",
+      "nation": "Qatar",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Toronto FC",
+      "marketValue": 16.4,
+      "profileUrl": "https://www.transfermarkt.com/nico-tanaka/profil/spieler/33011"
+    },
+    {
+      "id": "Qatar_11",
+      "name": "Gavi Touré",
+      "nation": "Qatar",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Palmeiras",
+      "marketValue": 13.2,
+      "profileUrl": "https://www.transfermarkt.com/gavi-touré/profil/spieler/33012"
+    },
+    {
+      "id": "Qatar_12",
+      "name": "Noah Sato",
+      "nation": "Qatar",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Fenerbahçe",
+      "marketValue": 9.5,
+      "profileUrl": "https://www.transfermarkt.com/noah-sato/profil/spieler/33013"
+    },
+    {
+      "id": "Iraq_0",
+      "name": "Sadio Rashford",
+      "nation": "Iraq",
+      "age": 24,
+      "position": "Gardien",
+      "club": "Toronto FC",
+      "marketValue": 6,
+      "profileUrl": "https://www.transfermarkt.com/sadio-rashford/profil/spieler/34001"
+    },
+    {
+      "id": "Iraq_1",
+      "name": "Erling Williams",
+      "nation": "Iraq",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Inter Miami",
+      "marketValue": 5.8,
+      "profileUrl": "https://www.transfermarkt.com/erling-williams/profil/spieler/34002"
+    },
+    {
+      "id": "Iraq_2",
+      "name": "Takumi Leão",
+      "nation": "Iraq",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "LA Galaxy",
+      "marketValue": 6.6,
+      "profileUrl": "https://www.transfermarkt.com/takumi-leão/profil/spieler/34003"
+    },
+    {
+      "id": "Iraq_3",
+      "name": "Ethan Diop",
+      "nation": "Iraq",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "River Plate",
+      "marketValue": 7.6,
+      "profileUrl": "https://www.transfermarkt.com/ethan-diop/profil/spieler/34004"
+    },
+    {
+      "id": "Iraq_4",
+      "name": "Kylian Osimhen",
+      "nation": "Iraq",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "River Plate",
+      "marketValue": 5.5,
+      "profileUrl": "https://www.transfermarkt.com/kylian-osimhen/profil/spieler/34005"
+    },
+    {
+      "id": "Iraq_5",
+      "name": "Aurélien Mané",
+      "nation": "Iraq",
+      "age": 27,
+      "position": "Défenseur",
+      "club": "Flamengo",
+      "marketValue": 4.8,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-mané/profil/spieler/34006"
+    },
+    {
+      "id": "Iraq_6",
+      "name": "Marco Sato",
+      "nation": "Iraq",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Toronto FC",
+      "marketValue": 6.8,
+      "profileUrl": "https://www.transfermarkt.com/marco-sato/profil/spieler/34007"
+    },
+    {
+      "id": "Iraq_7",
+      "name": "Takumi Rashford",
+      "nation": "Iraq",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Galatasaray",
+      "marketValue": 10.7,
+      "profileUrl": "https://www.transfermarkt.com/takumi-rashford/profil/spieler/34008"
+    },
+    {
+      "id": "Iraq_8",
+      "name": "Niko Tanaka",
+      "nation": "Iraq",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Palmeiras",
+      "marketValue": 1.7,
+      "profileUrl": "https://www.transfermarkt.com/niko-tanaka/profil/spieler/34009"
+    },
+    {
+      "id": "Iraq_9",
+      "name": "Florian Traoré",
+      "nation": "Iraq",
+      "age": 31,
+      "position": "Milieu",
+      "club": "Fenerbahçe",
+      "marketValue": 10.3,
+      "profileUrl": "https://www.transfermarkt.com/florian-traoré/profil/spieler/34010"
+    },
+    {
+      "id": "Iraq_10",
+      "name": "Jan Williams",
+      "nation": "Iraq",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Local Club",
+      "marketValue": 4.3,
+      "profileUrl": "https://www.transfermarkt.com/jan-williams/profil/spieler/34011"
+    },
+    {
+      "id": "Iraq_11",
+      "name": "Carlos Mané",
+      "nation": "Iraq",
+      "age": 25,
+      "position": "Attaquant",
+      "club": "Galatasaray",
+      "marketValue": 12.5,
+      "profileUrl": "https://www.transfermarkt.com/carlos-mané/profil/spieler/34012"
+    },
+    {
+      "id": "Iraq_12",
+      "name": "Min-jun Tchouaméni",
+      "nation": "Iraq",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "Flamengo",
+      "marketValue": 2.9,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-tchouaméni/profil/spieler/34013"
+    },
+    {
+      "id": "UAE_0",
+      "name": "Jude Traoré",
+      "nation": "UAE",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Al-Nassr",
+      "marketValue": 1.1,
+      "profileUrl": "https://www.transfermarkt.com/jude-traoré/profil/spieler/35001"
+    },
+    {
+      "id": "UAE_1",
+      "name": "Nico Williams",
+      "nation": "UAE",
+      "age": 22,
+      "position": "Gardien",
+      "club": "River Plate",
+      "marketValue": 1.3,
+      "profileUrl": "https://www.transfermarkt.com/nico-williams/profil/spieler/35002"
+    },
+    {
+      "id": "UAE_2",
+      "name": "Nico Mané",
+      "nation": "UAE",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Toronto FC",
+      "marketValue": 7.5,
+      "profileUrl": "https://www.transfermarkt.com/nico-mané/profil/spieler/35003"
+    },
+    {
+      "id": "UAE_3",
+      "name": "Pedro Brown",
+      "nation": "UAE",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "LA Galaxy",
+      "marketValue": 7.8,
+      "profileUrl": "https://www.transfermarkt.com/pedro-brown/profil/spieler/35004"
+    },
+    {
+      "id": "UAE_4",
+      "name": "Hiroshi Salah",
+      "nation": "UAE",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "CF Monterrey",
+      "marketValue": 2.4,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-salah/profil/spieler/35005"
+    },
+    {
+      "id": "UAE_5",
+      "name": "Rafael Osimhen",
+      "nation": "UAE",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Galatasaray",
+      "marketValue": 7.5,
+      "profileUrl": "https://www.transfermarkt.com/rafael-osimhen/profil/spieler/35006"
+    },
+    {
+      "id": "UAE_6",
+      "name": "Juan Lukaku",
+      "nation": "UAE",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Toronto FC",
+      "marketValue": 8.3,
+      "profileUrl": "https://www.transfermarkt.com/juan-lukaku/profil/spieler/35007"
+    },
+    {
+      "id": "UAE_7",
+      "name": "Carlos Park",
+      "nation": "UAE",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Flamengo",
+      "marketValue": 11.1,
+      "profileUrl": "https://www.transfermarkt.com/carlos-park/profil/spieler/35008"
+    },
+    {
+      "id": "UAE_8",
+      "name": "Sadio Lopez",
+      "nation": "UAE",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Al-Nassr",
+      "marketValue": 2.5,
+      "profileUrl": "https://www.transfermarkt.com/sadio-lopez/profil/spieler/35009"
+    },
+    {
+      "id": "UAE_9",
+      "name": "Kylian Diop",
+      "nation": "UAE",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Local Club",
+      "marketValue": 4.5,
+      "profileUrl": "https://www.transfermarkt.com/kylian-diop/profil/spieler/35010"
+    },
+    {
+      "id": "UAE_10",
+      "name": "Antoine Mané",
+      "nation": "UAE",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Local Club",
+      "marketValue": 2.2,
+      "profileUrl": "https://www.transfermarkt.com/antoine-mané/profil/spieler/35011"
+    },
+    {
+      "id": "UAE_11",
+      "name": "Pedri Rashford",
+      "nation": "UAE",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Boca Juniors",
+      "marketValue": 2.5,
+      "profileUrl": "https://www.transfermarkt.com/pedri-rashford/profil/spieler/35012"
+    },
+    {
+      "id": "UAE_12",
+      "name": "Takumi Lee",
+      "nation": "UAE",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Boca Juniors",
+      "marketValue": 7.8,
+      "profileUrl": "https://www.transfermarkt.com/takumi-lee/profil/spieler/35013"
+    },
+    {
+      "id": "Morocco_0",
+      "name": "Lamine Osimhen",
+      "nation": "Morocco",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Bayer Leverkusen",
+      "marketValue": 17.7,
+      "profileUrl": "https://www.transfermarkt.com/lamine-osimhen/profil/spieler/36001"
+    },
+    {
+      "id": "Morocco_1",
+      "name": "Phil Tchouaméni",
+      "nation": "Morocco",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Napoli",
+      "marketValue": 9.3,
+      "profileUrl": "https://www.transfermarkt.com/phil-tchouaméni/profil/spieler/36002"
+    },
+    {
+      "id": "Morocco_2",
+      "name": "Aurélien Touré",
+      "nation": "Morocco",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "AC Milan",
+      "marketValue": 25.4,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-touré/profil/spieler/36003"
+    },
+    {
+      "id": "Morocco_3",
+      "name": "Rafael Yamal",
+      "nation": "Morocco",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Borussia Dortmund",
+      "marketValue": 12,
+      "profileUrl": "https://www.transfermarkt.com/rafael-yamal/profil/spieler/36004"
+    },
+    {
+      "id": "Morocco_4",
+      "name": "João Silva",
+      "nation": "Morocco",
+      "age": 31,
+      "position": "Défenseur",
+      "club": "Benfica",
+      "marketValue": 36.5,
+      "profileUrl": "https://www.transfermarkt.com/joão-silva/profil/spieler/36005"
+    },
+    {
+      "id": "Morocco_5",
+      "name": "Karim Casemiro",
+      "nation": "Morocco",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Newcastle",
+      "marketValue": 26.7,
+      "profileUrl": "https://www.transfermarkt.com/karim-casemiro/profil/spieler/36006"
+    },
+    {
+      "id": "Morocco_6",
+      "name": "Jude Rodriguez",
+      "nation": "Morocco",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 34.9,
+      "profileUrl": "https://www.transfermarkt.com/jude-rodriguez/profil/spieler/36007"
+    },
+    {
+      "id": "Morocco_7",
+      "name": "Niko Tchouaméni",
+      "nation": "Morocco",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Bayer Leverkusen",
+      "marketValue": 42.3,
+      "profileUrl": "https://www.transfermarkt.com/niko-tchouaméni/profil/spieler/36008"
+    },
+    {
+      "id": "Morocco_8",
+      "name": "Victor Rodrygo",
+      "nation": "Morocco",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Bayer Leverkusen",
+      "marketValue": 58.7,
+      "profileUrl": "https://www.transfermarkt.com/victor-rodrygo/profil/spieler/36009"
+    },
+    {
+      "id": "Morocco_9",
+      "name": "Sadio Mendy",
+      "nation": "Morocco",
+      "age": 31,
+      "position": "Milieu",
+      "club": "Bayer Leverkusen",
+      "marketValue": 49.6,
+      "profileUrl": "https://www.transfermarkt.com/sadio-mendy/profil/spieler/36010"
+    },
+    {
+      "id": "Morocco_10",
+      "name": "Tomas Mané",
+      "nation": "Morocco",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Porto",
+      "marketValue": 41.5,
+      "profileUrl": "https://www.transfermarkt.com/tomas-mané/profil/spieler/36011"
+    },
+    {
+      "id": "Morocco_11",
+      "name": "Liam Lee",
+      "nation": "Morocco",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Atalanta",
+      "marketValue": 46.1,
+      "profileUrl": "https://www.transfermarkt.com/liam-lee/profil/spieler/36012"
+    },
+    {
+      "id": "Morocco_12",
+      "name": "Pedro Tanaka",
+      "nation": "Morocco",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Borussia Dortmund",
+      "marketValue": 77.2,
+      "profileUrl": "https://www.transfermarkt.com/pedro-tanaka/profil/spieler/36013"
+    },
+    {
+      "id": "Senegal_0",
+      "name": "Pedro Rashford",
+      "nation": "Senegal",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Napoli",
+      "marketValue": 15.9,
+      "profileUrl": "https://www.transfermarkt.com/pedro-rashford/profil/spieler/37001"
+    },
+    {
+      "id": "Senegal_1",
+      "name": "Takumi Mané",
+      "nation": "Senegal",
+      "age": 33,
+      "position": "Gardien",
+      "club": "Borussia Dortmund",
+      "marketValue": 21.4,
+      "profileUrl": "https://www.transfermarkt.com/takumi-mané/profil/spieler/37002"
+    },
+    {
+      "id": "Senegal_2",
+      "name": "Jude Foden",
+      "nation": "Senegal",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Atalanta",
+      "marketValue": 31.4,
+      "profileUrl": "https://www.transfermarkt.com/jude-foden/profil/spieler/37003"
+    },
+    {
+      "id": "Senegal_3",
+      "name": "Florian Tanaka",
+      "nation": "Senegal",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Roma",
+      "marketValue": 42.2,
+      "profileUrl": "https://www.transfermarkt.com/florian-tanaka/profil/spieler/37004"
+    },
+    {
+      "id": "Senegal_4",
+      "name": "Bruno Lopez",
+      "nation": "Senegal",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "Borussia Dortmund",
+      "marketValue": 21.7,
+      "profileUrl": "https://www.transfermarkt.com/bruno-lopez/profil/spieler/37005"
+    },
+    {
+      "id": "Senegal_5",
+      "name": "Jude Saka",
+      "nation": "Senegal",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "RB Leipzig",
+      "marketValue": 31.7,
+      "profileUrl": "https://www.transfermarkt.com/jude-saka/profil/spieler/37006"
+    },
+    {
+      "id": "Senegal_6",
+      "name": "Hassan Tchouaméni",
+      "nation": "Senegal",
+      "age": 25,
+      "position": "Milieu",
+      "club": "RB Leipzig",
+      "marketValue": 66.2,
+      "profileUrl": "https://www.transfermarkt.com/hassan-tchouaméni/profil/spieler/37007"
+    },
+    {
+      "id": "Senegal_7",
+      "name": "Joshua Kimmich",
+      "nation": "Senegal",
+      "age": 26,
+      "position": "Milieu",
+      "club": "Porto",
+      "marketValue": 40.2,
+      "profileUrl": "https://www.transfermarkt.com/joshua-kimmich/profil/spieler/37008"
+    },
+    {
+      "id": "Senegal_8",
+      "name": "Hiroshi Mbappé",
+      "nation": "Senegal",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Benfica",
+      "marketValue": 42.9,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-mbappé/profil/spieler/37009"
+    },
+    {
+      "id": "Senegal_9",
+      "name": "Kylian Mané",
+      "nation": "Senegal",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Roma",
+      "marketValue": 36,
+      "profileUrl": "https://www.transfermarkt.com/kylian-mané/profil/spieler/37010"
+    },
+    {
+      "id": "Senegal_10",
+      "name": "Pedro Vinicius",
+      "nation": "Senegal",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "Tottenham",
+      "marketValue": 71.5,
+      "profileUrl": "https://www.transfermarkt.com/pedro-vinicius/profil/spieler/37011"
+    },
+    {
+      "id": "Senegal_11",
+      "name": "Gavi Bernard",
+      "nation": "Senegal",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "Atalanta",
+      "marketValue": 50.6,
+      "profileUrl": "https://www.transfermarkt.com/gavi-bernard/profil/spieler/37012"
+    },
+    {
+      "id": "Senegal_12",
+      "name": "João Saka",
+      "nation": "Senegal",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Aston Villa",
+      "marketValue": 20.2,
+      "profileUrl": "https://www.transfermarkt.com/joão-saka/profil/spieler/37013"
+    },
+    {
+      "id": "Egypt_0",
+      "name": "Joshua Diaz",
+      "nation": "Egypt",
+      "age": 31,
+      "position": "Gardien",
+      "club": "Marseille",
+      "marketValue": 8.7,
+      "profileUrl": "https://www.transfermarkt.com/joshua-diaz/profil/spieler/38001"
+    },
+    {
+      "id": "Egypt_1",
+      "name": "Joshua Schmidt",
+      "nation": "Egypt",
+      "age": 29,
+      "position": "Gardien",
+      "club": "Wolfsburg",
+      "marketValue": 10.3,
+      "profileUrl": "https://www.transfermarkt.com/joshua-schmidt/profil/spieler/38002"
+    },
+    {
+      "id": "Egypt_2",
+      "name": "Mohamed Diop",
+      "nation": "Egypt",
+      "age": 33,
+      "position": "Défenseur",
+      "club": "Sporting CP",
+      "marketValue": 17.8,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-diop/profil/spieler/38003"
+    },
+    {
+      "id": "Egypt_3",
+      "name": "Harry Rodrygo",
+      "nation": "Egypt",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Fiorentina",
+      "marketValue": 7.7,
+      "profileUrl": "https://www.transfermarkt.com/harry-rodrygo/profil/spieler/38004"
+    },
+    {
+      "id": "Egypt_4",
+      "name": "Erling Martinez",
+      "nation": "Egypt",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Sporting CP",
+      "marketValue": 8.6,
+      "profileUrl": "https://www.transfermarkt.com/erling-martinez/profil/spieler/38005"
+    },
+    {
+      "id": "Egypt_5",
+      "name": "Aurélien Smith",
+      "nation": "Egypt",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 11.8,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-smith/profil/spieler/38006"
+    },
+    {
+      "id": "Egypt_6",
+      "name": "Pedri Tchouaméni",
+      "nation": "Egypt",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 17.6,
+      "profileUrl": "https://www.transfermarkt.com/pedri-tchouaméni/profil/spieler/38007"
+    },
+    {
+      "id": "Egypt_7",
+      "name": "Marco Kim",
+      "nation": "Egypt",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Marseille",
+      "marketValue": 12.5,
+      "profileUrl": "https://www.transfermarkt.com/marco-kim/profil/spieler/38008"
+    },
+    {
+      "id": "Egypt_8",
+      "name": "Karim Mbappé",
+      "nation": "Egypt",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Fiorentina",
+      "marketValue": 31.1,
+      "profileUrl": "https://www.transfermarkt.com/karim-mbappé/profil/spieler/38009"
+    },
+    {
+      "id": "Egypt_9",
+      "name": "Luca Lopez",
+      "nation": "Egypt",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Wolfsburg",
+      "marketValue": 17.7,
+      "profileUrl": "https://www.transfermarkt.com/luca-lopez/profil/spieler/38010"
+    },
+    {
+      "id": "Egypt_10",
+      "name": "Oliver Ziyech",
+      "nation": "Egypt",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "West Ham",
+      "marketValue": 9.6,
+      "profileUrl": "https://www.transfermarkt.com/oliver-ziyech/profil/spieler/38011"
+    },
+    {
+      "id": "Egypt_11",
+      "name": "Samuel Yamamoto",
+      "nation": "Egypt",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Fiorentina",
+      "marketValue": 36.9,
+      "profileUrl": "https://www.transfermarkt.com/samuel-yamamoto/profil/spieler/38012"
+    },
+    {
+      "id": "Egypt_12",
+      "name": "Pedri Fischer",
+      "nation": "Egypt",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Brighton",
+      "marketValue": 26,
+      "profileUrl": "https://www.transfermarkt.com/pedri-fischer/profil/spieler/38013"
+    },
+    {
+      "id": "Nigeria_0",
+      "name": "Niko Dubois",
+      "nation": "Nigeria",
+      "age": 32,
+      "position": "Gardien",
+      "club": "Wolfsburg",
+      "marketValue": 14.9,
+      "profileUrl": "https://www.transfermarkt.com/niko-dubois/profil/spieler/39001"
+    },
+    {
+      "id": "Nigeria_1",
+      "name": "Min-jun Touré",
+      "nation": "Nigeria",
+      "age": 32,
+      "position": "Gardien",
+      "club": "Fiorentina",
+      "marketValue": 12.6,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-touré/profil/spieler/39002"
+    },
+    {
+      "id": "Nigeria_2",
+      "name": "Hugo Yamamoto",
+      "nation": "Nigeria",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 15.3,
+      "profileUrl": "https://www.transfermarkt.com/hugo-yamamoto/profil/spieler/39003"
+    },
+    {
+      "id": "Nigeria_3",
+      "name": "Gavi Smith",
+      "nation": "Nigeria",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 22.5,
+      "profileUrl": "https://www.transfermarkt.com/gavi-smith/profil/spieler/39004"
+    },
+    {
+      "id": "Nigeria_4",
+      "name": "Pedri Félix",
+      "nation": "Nigeria",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 15.4,
+      "profileUrl": "https://www.transfermarkt.com/pedri-félix/profil/spieler/39005"
+    },
+    {
+      "id": "Nigeria_5",
+      "name": "Aurélien Fernandes",
+      "nation": "Nigeria",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 13.8,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-fernandes/profil/spieler/39006"
+    },
+    {
+      "id": "Nigeria_6",
+      "name": "Bukayo Kim",
+      "nation": "Nigeria",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 22.2,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-kim/profil/spieler/39007"
+    },
+    {
+      "id": "Nigeria_7",
+      "name": "Pedro Rodriguez",
+      "nation": "Nigeria",
+      "age": 21,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 8.4,
+      "profileUrl": "https://www.transfermarkt.com/pedro-rodriguez/profil/spieler/39008"
+    },
+    {
+      "id": "Nigeria_8",
+      "name": "Kai Hakimi",
+      "nation": "Nigeria",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 30.5,
+      "profileUrl": "https://www.transfermarkt.com/kai-hakimi/profil/spieler/39009"
+    },
+    {
+      "id": "Nigeria_9",
+      "name": "Hiroshi Rodrygo",
+      "nation": "Nigeria",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Brighton",
+      "marketValue": 11.8,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-rodrygo/profil/spieler/39010"
+    },
+    {
+      "id": "Nigeria_10",
+      "name": "Mohamed Ziyech",
+      "nation": "Nigeria",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "West Ham",
+      "marketValue": 36.2,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-ziyech/profil/spieler/39011"
+    },
+    {
+      "id": "Nigeria_11",
+      "name": "Lamine Tchouaméni",
+      "nation": "Nigeria",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Valencia",
+      "marketValue": 31.6,
+      "profileUrl": "https://www.transfermarkt.com/lamine-tchouaméni/profil/spieler/39012"
+    },
+    {
+      "id": "Nigeria_12",
+      "name": "Jan Diop",
+      "nation": "Nigeria",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Wolfsburg",
+      "marketValue": 43.9,
+      "profileUrl": "https://www.transfermarkt.com/jan-diop/profil/spieler/39013"
+    },
+    {
+      "id": "Algeria_0",
+      "name": "Joshua Santos",
+      "nation": "Algeria",
+      "age": 34,
+      "position": "Gardien",
+      "club": "Valencia",
+      "marketValue": 4,
+      "profileUrl": "https://www.transfermarkt.com/joshua-santos/profil/spieler/40001"
+    },
+    {
+      "id": "Algeria_1",
+      "name": "Takumi Vinicius",
+      "nation": "Algeria",
+      "age": 21,
+      "position": "Gardien",
+      "club": "Brighton",
+      "marketValue": 11.3,
+      "profileUrl": "https://www.transfermarkt.com/takumi-vinicius/profil/spieler/40002"
+    },
+    {
+      "id": "Algeria_2",
+      "name": "Mateo Dubois",
+      "nation": "Algeria",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Wolfsburg",
+      "marketValue": 16.2,
+      "profileUrl": "https://www.transfermarkt.com/mateo-dubois/profil/spieler/40003"
+    },
+    {
+      "id": "Algeria_3",
+      "name": "Kai Mbappé",
+      "nation": "Algeria",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Wolfsburg",
+      "marketValue": 20.6,
+      "profileUrl": "https://www.transfermarkt.com/kai-mbappé/profil/spieler/40004"
+    },
+    {
+      "id": "Algeria_4",
+      "name": "Noah Park",
+      "nation": "Algeria",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "Lazio",
+      "marketValue": 6.9,
+      "profileUrl": "https://www.transfermarkt.com/noah-park/profil/spieler/40005"
+    },
+    {
+      "id": "Algeria_5",
+      "name": "Diego Rossi",
+      "nation": "Algeria",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Marseille",
+      "marketValue": 13.8,
+      "profileUrl": "https://www.transfermarkt.com/diego-rossi/profil/spieler/40006"
+    },
+    {
+      "id": "Algeria_6",
+      "name": "Hiroshi Rashford",
+      "nation": "Algeria",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Sevilla",
+      "marketValue": 13.8,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-rashford/profil/spieler/40007"
+    },
+    {
+      "id": "Algeria_7",
+      "name": "Carlos Félix",
+      "nation": "Algeria",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Valencia",
+      "marketValue": 24.7,
+      "profileUrl": "https://www.transfermarkt.com/carlos-félix/profil/spieler/40008"
+    },
+    {
+      "id": "Algeria_8",
+      "name": "Gavi Lee",
+      "nation": "Algeria",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Brighton",
+      "marketValue": 13.5,
+      "profileUrl": "https://www.transfermarkt.com/gavi-lee/profil/spieler/40009"
+    },
+    {
+      "id": "Algeria_9",
+      "name": "David Santos",
+      "nation": "Algeria",
+      "age": 24,
+      "position": "Milieu",
+      "club": "Fiorentina",
+      "marketValue": 6.1,
+      "profileUrl": "https://www.transfermarkt.com/david-santos/profil/spieler/40010"
+    },
+    {
+      "id": "Algeria_10",
+      "name": "Ali Santos",
+      "nation": "Algeria",
+      "age": 22,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 37.2,
+      "profileUrl": "https://www.transfermarkt.com/ali-santos/profil/spieler/40011"
+    },
+    {
+      "id": "Algeria_11",
+      "name": "Lucas Diop",
+      "nation": "Algeria",
+      "age": 21,
+      "position": "Attaquant",
+      "club": "Marseille",
+      "marketValue": 29,
+      "profileUrl": "https://www.transfermarkt.com/lucas-diop/profil/spieler/40012"
+    },
+    {
+      "id": "Algeria_12",
+      "name": "Phil Yamamoto",
+      "nation": "Algeria",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 20.1,
+      "profileUrl": "https://www.transfermarkt.com/phil-yamamoto/profil/spieler/40013"
+    },
+    {
+      "id": "Cameroon_0",
+      "name": "Min-jun Kimmich",
+      "nation": "Cameroon",
+      "age": 21,
+      "position": "Gardien",
+      "club": "Valencia",
+      "marketValue": 6.5,
+      "profileUrl": "https://www.transfermarkt.com/min-jun-kimmich/profil/spieler/41001"
+    },
+    {
+      "id": "Cameroon_1",
+      "name": "Victor Lukaku",
+      "nation": "Cameroon",
+      "age": 34,
+      "position": "Gardien",
+      "club": "Olympique Lyonnais",
+      "marketValue": 4.3,
+      "profileUrl": "https://www.transfermarkt.com/victor-lukaku/profil/spieler/41002"
+    },
+    {
+      "id": "Cameroon_2",
+      "name": "Pedri Touré",
+      "nation": "Cameroon",
+      "age": 34,
+      "position": "Défenseur",
+      "club": "Fiorentina",
+      "marketValue": 17.5,
+      "profileUrl": "https://www.transfermarkt.com/pedri-touré/profil/spieler/41003"
+    },
+    {
+      "id": "Cameroon_3",
+      "name": "Pedro Rodrygo",
+      "nation": "Cameroon",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Marseille",
+      "marketValue": 19.8,
+      "profileUrl": "https://www.transfermarkt.com/pedro-rodrygo/profil/spieler/41004"
+    },
+    {
+      "id": "Cameroon_4",
+      "name": "Hassan Brown",
+      "nation": "Cameroon",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 21.2,
+      "profileUrl": "https://www.transfermarkt.com/hassan-brown/profil/spieler/41005"
+    },
+    {
+      "id": "Cameroon_5",
+      "name": "Jan Tchouaméni",
+      "nation": "Cameroon",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 19.5,
+      "profileUrl": "https://www.transfermarkt.com/jan-tchouaméni/profil/spieler/41006"
+    },
+    {
+      "id": "Cameroon_6",
+      "name": "Pedri Rodrygo",
+      "nation": "Cameroon",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Olympique Lyonnais",
+      "marketValue": 33.5,
+      "profileUrl": "https://www.transfermarkt.com/pedri-rodrygo/profil/spieler/41007"
+    },
+    {
+      "id": "Cameroon_7",
+      "name": "Noah Tanaka",
+      "nation": "Cameroon",
+      "age": 31,
+      "position": "Milieu",
+      "club": "Valencia",
+      "marketValue": 19,
+      "profileUrl": "https://www.transfermarkt.com/noah-tanaka/profil/spieler/41008"
+    },
+    {
+      "id": "Cameroon_8",
+      "name": "Victor Osimhen",
+      "nation": "Cameroon",
+      "age": 19,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 24.7,
+      "profileUrl": "https://www.transfermarkt.com/victor-osimhen/profil/spieler/41009"
+    },
+    {
+      "id": "Cameroon_9",
+      "name": "Hassan Lukaku",
+      "nation": "Cameroon",
+      "age": 21,
+      "position": "Milieu",
+      "club": "Sporting CP",
+      "marketValue": 6.7,
+      "profileUrl": "https://www.transfermarkt.com/hassan-lukaku/profil/spieler/41010"
+    },
+    {
+      "id": "Cameroon_10",
+      "name": "Takumi Tanaka",
+      "nation": "Cameroon",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "West Ham",
+      "marketValue": 16.8,
+      "profileUrl": "https://www.transfermarkt.com/takumi-tanaka/profil/spieler/41011"
+    },
+    {
+      "id": "Cameroon_11",
+      "name": "Juan Bernard",
+      "nation": "Cameroon",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 42.9,
+      "profileUrl": "https://www.transfermarkt.com/juan-bernard/profil/spieler/41012"
+    },
+    {
+      "id": "Cameroon_12",
+      "name": "Pedri Williams",
+      "nation": "Cameroon",
+      "age": 24,
+      "position": "Attaquant",
+      "club": "West Ham",
+      "marketValue": 14.2,
+      "profileUrl": "https://www.transfermarkt.com/pedri-williams/profil/spieler/41013"
+    },
+    {
+      "id": "Ivory_Coast_0",
+      "name": "Hugo Sato",
+      "nation": "Ivory Coast",
+      "age": 32,
+      "position": "Gardien",
+      "club": "Real Sociedad",
+      "marketValue": 12.2,
+      "profileUrl": "https://www.transfermarkt.com/hugo-sato/profil/spieler/42001"
+    },
+    {
+      "id": "Ivory_Coast_1",
+      "name": "Luca Diop",
+      "nation": "Ivory Coast",
+      "age": 22,
+      "position": "Gardien",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 14.5,
+      "profileUrl": "https://www.transfermarkt.com/luca-diop/profil/spieler/42002"
+    },
+    {
+      "id": "Ivory_Coast_2",
+      "name": "Ali Müller",
+      "nation": "Ivory Coast",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 19.7,
+      "profileUrl": "https://www.transfermarkt.com/ali-müller/profil/spieler/42003"
+    },
+    {
+      "id": "Ivory_Coast_3",
+      "name": "Luca Hakimi",
+      "nation": "Ivory Coast",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Sporting CP",
+      "marketValue": 8.9,
+      "profileUrl": "https://www.transfermarkt.com/luca-hakimi/profil/spieler/42004"
+    },
+    {
+      "id": "Ivory_Coast_4",
+      "name": "Jude González",
+      "nation": "Ivory Coast",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Sevilla",
+      "marketValue": 17.7,
+      "profileUrl": "https://www.transfermarkt.com/jude-gonzález/profil/spieler/42005"
+    },
+    {
+      "id": "Ivory_Coast_5",
+      "name": "Luca Mané",
+      "nation": "Ivory Coast",
+      "age": 25,
+      "position": "Défenseur",
+      "club": "Olympique Lyonnais",
+      "marketValue": 24.8,
+      "profileUrl": "https://www.transfermarkt.com/luca-mané/profil/spieler/42006"
+    },
+    {
+      "id": "Ivory_Coast_6",
+      "name": "Karim Garcia",
+      "nation": "Ivory Coast",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Lazio",
+      "marketValue": 16.7,
+      "profileUrl": "https://www.transfermarkt.com/karim-garcia/profil/spieler/42007"
+    },
+    {
+      "id": "Ivory_Coast_7",
+      "name": "Kai Sato",
+      "nation": "Ivory Coast",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Valencia",
+      "marketValue": 28.3,
+      "profileUrl": "https://www.transfermarkt.com/kai-sato/profil/spieler/42008"
+    },
+    {
+      "id": "Ivory_Coast_8",
+      "name": "Luca Vinicius",
+      "nation": "Ivory Coast",
+      "age": 25,
+      "position": "Milieu",
+      "club": "Marseille",
+      "marketValue": 22.9,
+      "profileUrl": "https://www.transfermarkt.com/luca-vinicius/profil/spieler/42009"
+    },
+    {
+      "id": "Ivory_Coast_9",
+      "name": "Yassine Lopez",
+      "nation": "Ivory Coast",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Lazio",
+      "marketValue": 28.8,
+      "profileUrl": "https://www.transfermarkt.com/yassine-lopez/profil/spieler/42010"
+    },
+    {
+      "id": "Ivory_Coast_10",
+      "name": "Kylian Mbappé",
+      "nation": "Ivory Coast",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "Wolfsburg",
+      "marketValue": 31.3,
+      "profileUrl": "https://www.transfermarkt.com/kylian-mbappé/profil/spieler/42011"
+    },
+    {
+      "id": "Ivory_Coast_11",
+      "name": "Kai Casemiro",
+      "nation": "Ivory Coast",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 27.7,
+      "profileUrl": "https://www.transfermarkt.com/kai-casemiro/profil/spieler/42012"
+    },
+    {
+      "id": "Ivory_Coast_12",
+      "name": "Gavi Yamal",
+      "nation": "Ivory Coast",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Wolfsburg",
+      "marketValue": 11.7,
+      "profileUrl": "https://www.transfermarkt.com/gavi-yamal/profil/spieler/42013"
+    },
+    {
+      "id": "Ghana_0",
+      "name": "Tomas Vinicius",
+      "nation": "Ghana",
+      "age": 19,
+      "position": "Gardien",
+      "club": "West Ham",
+      "marketValue": 14.9,
+      "profileUrl": "https://www.transfermarkt.com/tomas-vinicius/profil/spieler/43001"
+    },
+    {
+      "id": "Ghana_1",
+      "name": "Yassine Tanaka",
+      "nation": "Ghana",
+      "age": 30,
+      "position": "Gardien",
+      "club": "Brighton",
+      "marketValue": 6.4,
+      "profileUrl": "https://www.transfermarkt.com/yassine-tanaka/profil/spieler/43002"
+    },
+    {
+      "id": "Ghana_2",
+      "name": "Mateo Hakimi",
+      "nation": "Ghana",
+      "age": 26,
+      "position": "Défenseur",
+      "club": "Brighton",
+      "marketValue": 8.4,
+      "profileUrl": "https://www.transfermarkt.com/mateo-hakimi/profil/spieler/43003"
+    },
+    {
+      "id": "Ghana_3",
+      "name": "João Rodriguez",
+      "nation": "Ghana",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 7.9,
+      "profileUrl": "https://www.transfermarkt.com/joão-rodriguez/profil/spieler/43004"
+    },
+    {
+      "id": "Ghana_4",
+      "name": "Ethan Williams",
+      "nation": "Ghana",
+      "age": 21,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 8.9,
+      "profileUrl": "https://www.transfermarkt.com/ethan-williams/profil/spieler/43005"
+    },
+    {
+      "id": "Ghana_5",
+      "name": "Tomas Diaz",
+      "nation": "Ghana",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "West Ham",
+      "marketValue": 17.6,
+      "profileUrl": "https://www.transfermarkt.com/tomas-diaz/profil/spieler/43006"
+    },
+    {
+      "id": "Ghana_6",
+      "name": "João Jones",
+      "nation": "Ghana",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Brighton",
+      "marketValue": 7.2,
+      "profileUrl": "https://www.transfermarkt.com/joão-jones/profil/spieler/43007"
+    },
+    {
+      "id": "Ghana_7",
+      "name": "Kylian Diop",
+      "nation": "Ghana",
+      "age": 34,
+      "position": "Milieu",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 6.3,
+      "profileUrl": "https://www.transfermarkt.com/kylian-diop/profil/spieler/43008"
+    },
+    {
+      "id": "Ghana_8",
+      "name": "Harry Rashford",
+      "nation": "Ghana",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Sporting CP",
+      "marketValue": 27.7,
+      "profileUrl": "https://www.transfermarkt.com/harry-rashford/profil/spieler/43009"
+    },
+    {
+      "id": "Ghana_9",
+      "name": "David Mendy",
+      "nation": "Ghana",
+      "age": 28,
+      "position": "Milieu",
+      "club": "Real Sociedad",
+      "marketValue": 27.1,
+      "profileUrl": "https://www.transfermarkt.com/david-mendy/profil/spieler/43010"
+    },
+    {
+      "id": "Ghana_10",
+      "name": "Daniel Tanaka",
+      "nation": "Ghana",
+      "age": 33,
+      "position": "Attaquant",
+      "club": "Sevilla",
+      "marketValue": 31.2,
+      "profileUrl": "https://www.transfermarkt.com/daniel-tanaka/profil/spieler/43011"
+    },
+    {
+      "id": "Ghana_11",
+      "name": "Aurélien Griezmann",
+      "nation": "Ghana",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Lazio",
+      "marketValue": 11.9,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-griezmann/profil/spieler/43012"
+    },
+    {
+      "id": "Ghana_12",
+      "name": "Diego Griezmann",
+      "nation": "Ghana",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Fiorentina",
+      "marketValue": 32.5,
+      "profileUrl": "https://www.transfermarkt.com/diego-griezmann/profil/spieler/43013"
+    },
+    {
+      "id": "Tunisia_0",
+      "name": "Mateo Kim",
+      "nation": "Tunisia",
+      "age": 27,
+      "position": "Gardien",
+      "club": "LA Galaxy",
+      "marketValue": 1.7,
+      "profileUrl": "https://www.transfermarkt.com/mateo-kim/profil/spieler/44001"
+    },
+    {
+      "id": "Tunisia_1",
+      "name": "Gavi Félix",
+      "nation": "Tunisia",
+      "age": 34,
+      "position": "Gardien",
+      "club": "Toronto FC",
+      "marketValue": 5.6,
+      "profileUrl": "https://www.transfermarkt.com/gavi-félix/profil/spieler/44002"
+    },
+    {
+      "id": "Tunisia_2",
+      "name": "Carlos Rodrygo",
+      "nation": "Tunisia",
+      "age": 19,
+      "position": "Défenseur",
+      "club": "Inter Miami",
+      "marketValue": 8.1,
+      "profileUrl": "https://www.transfermarkt.com/carlos-rodrygo/profil/spieler/44003"
+    },
+    {
+      "id": "Tunisia_3",
+      "name": "Samuel Saka",
+      "nation": "Tunisia",
+      "age": 20,
+      "position": "Défenseur",
+      "club": "Local Club",
+      "marketValue": 6.6,
+      "profileUrl": "https://www.transfermarkt.com/samuel-saka/profil/spieler/44004"
+    },
+    {
+      "id": "Tunisia_4",
+      "name": "Harry Mané",
+      "nation": "Tunisia",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "LA Galaxy",
+      "marketValue": 3.2,
+      "profileUrl": "https://www.transfermarkt.com/harry-mané/profil/spieler/44005"
+    },
+    {
+      "id": "Tunisia_5",
+      "name": "Samuel Smith",
+      "nation": "Tunisia",
+      "age": 30,
+      "position": "Défenseur",
+      "club": "Al-Nassr",
+      "marketValue": 1.7,
+      "profileUrl": "https://www.transfermarkt.com/samuel-smith/profil/spieler/44006"
+    },
+    {
+      "id": "Tunisia_6",
+      "name": "Hiroshi Brown",
+      "nation": "Tunisia",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Al-Hilal",
+      "marketValue": 11,
+      "profileUrl": "https://www.transfermarkt.com/hiroshi-brown/profil/spieler/44007"
+    },
+    {
+      "id": "Tunisia_7",
+      "name": "Pedro Sato",
+      "nation": "Tunisia",
+      "age": 35,
+      "position": "Milieu",
+      "club": "Inter Miami",
+      "marketValue": 6.7,
+      "profileUrl": "https://www.transfermarkt.com/pedro-sato/profil/spieler/44008"
+    },
+    {
+      "id": "Tunisia_8",
+      "name": "Yassine Fischer",
+      "nation": "Tunisia",
+      "age": 31,
+      "position": "Milieu",
+      "club": "Al-Hilal",
+      "marketValue": 4.1,
+      "profileUrl": "https://www.transfermarkt.com/yassine-fischer/profil/spieler/44009"
+    },
+    {
+      "id": "Tunisia_9",
+      "name": "Marco González",
+      "nation": "Tunisia",
+      "age": 30,
+      "position": "Milieu",
+      "club": "CF Monterrey",
+      "marketValue": 6.5,
+      "profileUrl": "https://www.transfermarkt.com/marco-gonzález/profil/spieler/44010"
+    },
+    {
+      "id": "Tunisia_10",
+      "name": "Hugo González",
+      "nation": "Tunisia",
+      "age": 20,
+      "position": "Attaquant",
+      "club": "Toronto FC",
+      "marketValue": 4.8,
+      "profileUrl": "https://www.transfermarkt.com/hugo-gonzález/profil/spieler/44011"
+    },
+    {
+      "id": "Tunisia_11",
+      "name": "Pedro Félix",
+      "nation": "Tunisia",
+      "age": 19,
+      "position": "Attaquant",
+      "club": "Flamengo",
+      "marketValue": 10.6,
+      "profileUrl": "https://www.transfermarkt.com/pedro-félix/profil/spieler/44012"
+    },
+    {
+      "id": "Tunisia_12",
+      "name": "Pedro Tchouaméni",
+      "nation": "Tunisia",
+      "age": 29,
+      "position": "Attaquant",
+      "club": "Palmeiras",
+      "marketValue": 6.5,
+      "profileUrl": "https://www.transfermarkt.com/pedro-tchouaméni/profil/spieler/44013"
+    },
+    {
+      "id": "New_Zealand_0",
+      "name": "Pedro Lopez",
+      "nation": "New Zealand",
+      "age": 22,
+      "position": "Gardien",
+      "club": "River Plate",
+      "marketValue": 2.4,
+      "profileUrl": "https://www.transfermarkt.com/pedro-lopez/profil/spieler/45001"
+    },
+    {
+      "id": "New_Zealand_1",
+      "name": "Erling Rodriguez",
+      "nation": "New Zealand",
+      "age": 33,
+      "position": "Gardien",
+      "club": "Toronto FC",
+      "marketValue": 3.1,
+      "profileUrl": "https://www.transfermarkt.com/erling-rodriguez/profil/spieler/45002"
+    },
+    {
+      "id": "New_Zealand_2",
+      "name": "Aurélien Williams",
+      "nation": "New Zealand",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Fenerbahçe",
+      "marketValue": 9.2,
+      "profileUrl": "https://www.transfermarkt.com/aurélien-williams/profil/spieler/45003"
+    },
+    {
+      "id": "New_Zealand_3",
+      "name": "Hugo Touré",
+      "nation": "New Zealand",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "River Plate",
+      "marketValue": 4.8,
+      "profileUrl": "https://www.transfermarkt.com/hugo-touré/profil/spieler/45004"
+    },
+    {
+      "id": "New_Zealand_4",
+      "name": "Leo Mbappé",
+      "nation": "New Zealand",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "LA Galaxy",
+      "marketValue": 6.6,
+      "profileUrl": "https://www.transfermarkt.com/leo-mbappé/profil/spieler/45005"
+    },
+    {
+      "id": "New_Zealand_5",
+      "name": "Rafael Park",
+      "nation": "New Zealand",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Local Club",
+      "marketValue": 6,
+      "profileUrl": "https://www.transfermarkt.com/rafael-park/profil/spieler/45006"
+    },
+    {
+      "id": "New_Zealand_6",
+      "name": "Nico Kim",
+      "nation": "New Zealand",
+      "age": 23,
+      "position": "Milieu",
+      "club": "Galatasaray",
+      "marketValue": 5.9,
+      "profileUrl": "https://www.transfermarkt.com/nico-kim/profil/spieler/45007"
+    },
+    {
+      "id": "New_Zealand_7",
+      "name": "James González",
+      "nation": "New Zealand",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Al-Hilal",
+      "marketValue": 3.2,
+      "profileUrl": "https://www.transfermarkt.com/james-gonzález/profil/spieler/45008"
+    },
+    {
+      "id": "New_Zealand_8",
+      "name": "Florian Williams",
+      "nation": "New Zealand",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Flamengo",
+      "marketValue": 10.4,
+      "profileUrl": "https://www.transfermarkt.com/florian-williams/profil/spieler/45009"
+    },
+    {
+      "id": "New_Zealand_9",
+      "name": "Nico Müller",
+      "nation": "New Zealand",
+      "age": 28,
+      "position": "Milieu",
+      "club": "LA Galaxy",
+      "marketValue": 5.2,
+      "profileUrl": "https://www.transfermarkt.com/nico-müller/profil/spieler/45010"
+    },
+    {
+      "id": "New_Zealand_10",
+      "name": "Karim Lukaku",
+      "nation": "New Zealand",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Boca Juniors",
+      "marketValue": 11.7,
+      "profileUrl": "https://www.transfermarkt.com/karim-lukaku/profil/spieler/45011"
+    },
+    {
+      "id": "New_Zealand_11",
+      "name": "Daniel Leão",
+      "nation": "New Zealand",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "Al-Nassr",
+      "marketValue": 8.9,
+      "profileUrl": "https://www.transfermarkt.com/daniel-leão/profil/spieler/45012"
+    },
+    {
+      "id": "New_Zealand_12",
+      "name": "Mateo Tanaka",
+      "nation": "New Zealand",
+      "age": 32,
+      "position": "Attaquant",
+      "club": "Al-Hilal",
+      "marketValue": 16.3,
+      "profileUrl": "https://www.transfermarkt.com/mateo-tanaka/profil/spieler/45013"
+    },
+    {
+      "id": "Wales_0",
+      "name": "Carlos Foden",
+      "nation": "Wales",
+      "age": 35,
+      "position": "Gardien",
+      "club": "Brighton",
+      "marketValue": 10.8,
+      "profileUrl": "https://www.transfermarkt.com/carlos-foden/profil/spieler/46001"
+    },
+    {
+      "id": "Wales_1",
+      "name": "Kai Lopez",
+      "nation": "Wales",
+      "age": 33,
+      "position": "Gardien",
+      "club": "Lazio",
+      "marketValue": 14.7,
+      "profileUrl": "https://www.transfermarkt.com/kai-lopez/profil/spieler/46002"
+    },
+    {
+      "id": "Wales_2",
+      "name": "Noah Romano",
+      "nation": "Wales",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Olympique Lyonnais",
+      "marketValue": 6.7,
+      "profileUrl": "https://www.transfermarkt.com/noah-romano/profil/spieler/46003"
+    },
+    {
+      "id": "Wales_3",
+      "name": "Stefan Rossi",
+      "nation": "Wales",
+      "age": 29,
+      "position": "Défenseur",
+      "club": "Valencia",
+      "marketValue": 8.8,
+      "profileUrl": "https://www.transfermarkt.com/stefan-rossi/profil/spieler/46004"
+    },
+    {
+      "id": "Wales_4",
+      "name": "Pedro Félix",
+      "nation": "Wales",
+      "age": 32,
+      "position": "Défenseur",
+      "club": "Real Sociedad",
+      "marketValue": 18,
+      "profileUrl": "https://www.transfermarkt.com/pedro-félix/profil/spieler/46005"
+    },
+    {
+      "id": "Wales_5",
+      "name": "Stefan Mendy",
+      "nation": "Wales",
+      "age": 23,
+      "position": "Défenseur",
+      "club": "Valencia",
+      "marketValue": 7,
+      "profileUrl": "https://www.transfermarkt.com/stefan-mendy/profil/spieler/46006"
+    },
+    {
+      "id": "Wales_6",
+      "name": "Hassan Williams",
+      "nation": "Wales",
+      "age": 20,
+      "position": "Milieu",
+      "club": "Marseille",
+      "marketValue": 14,
+      "profileUrl": "https://www.transfermarkt.com/hassan-williams/profil/spieler/46007"
+    },
+    {
+      "id": "Wales_7",
+      "name": "Yassine Leão",
+      "nation": "Wales",
+      "age": 22,
+      "position": "Milieu",
+      "club": "Wolfsburg",
+      "marketValue": 8.5,
+      "profileUrl": "https://www.transfermarkt.com/yassine-leão/profil/spieler/46008"
+    },
+    {
+      "id": "Wales_8",
+      "name": "Carlos Félix",
+      "nation": "Wales",
+      "age": 30,
+      "position": "Milieu",
+      "club": "Brighton",
+      "marketValue": 16.6,
+      "profileUrl": "https://www.transfermarkt.com/carlos-félix/profil/spieler/46009"
+    },
+    {
+      "id": "Wales_9",
+      "name": "Nico Rashford",
+      "nation": "Wales",
+      "age": 31,
+      "position": "Milieu",
+      "club": "West Ham",
+      "marketValue": 27.2,
+      "profileUrl": "https://www.transfermarkt.com/nico-rashford/profil/spieler/46010"
+    },
+    {
+      "id": "Wales_10",
+      "name": "Bruno Casemiro",
+      "nation": "Wales",
+      "age": 22,
+      "position": "Attaquant",
+      "club": "Sporting CP",
+      "marketValue": 12.4,
+      "profileUrl": "https://www.transfermarkt.com/bruno-casemiro/profil/spieler/46011"
+    },
+    {
+      "id": "Wales_11",
+      "name": "Ali Rossi",
+      "nation": "Wales",
+      "age": 26,
+      "position": "Attaquant",
+      "club": "Fiorentina",
+      "marketValue": 32.8,
+      "profileUrl": "https://www.transfermarkt.com/ali-rossi/profil/spieler/46012"
+    },
+    {
+      "id": "Wales_12",
+      "name": "Marco Mbappé",
+      "nation": "Wales",
+      "age": 35,
+      "position": "Attaquant",
+      "club": "Eintracht Frankfurt",
+      "marketValue": 26,
+      "profileUrl": "https://www.transfermarkt.com/marco-mbappé/profil/spieler/46013"
+    },
+    {
+      "id": "DR_Congo_0",
+      "name": "Pedro Lopez",
+      "nation": "DR Congo",
+      "age": 21,
+      "position": "Gardien",
+      "club": "LA Galaxy",
+      "marketValue": 2.4,
+      "profileUrl": "https://www.transfermarkt.com/pedro-lopez/profil/spieler/47001"
+    },
+    {
+      "id": "DR_Congo_1",
+      "name": "Adam Bellingham",
+      "nation": "DR Congo",
+      "age": 23,
+      "position": "Gardien",
+      "club": "Al-Nassr",
+      "marketValue": 3.9,
+      "profileUrl": "https://www.transfermarkt.com/adam-bellingham/profil/spieler/47002"
+    },
+    {
+      "id": "DR_Congo_2",
+      "name": "Ibrahim Tchouaméni",
+      "nation": "DR Congo",
+      "age": 28,
+      "position": "Défenseur",
+      "club": "Al-Hilal",
+      "marketValue": 2.5,
+      "profileUrl": "https://www.transfermarkt.com/ibrahim-tchouaméni/profil/spieler/47003"
+    },
+    {
+      "id": "DR_Congo_3",
+      "name": "Niko Yamamoto",
+      "nation": "DR Congo",
+      "age": 22,
+      "position": "Défenseur",
+      "club": "Toronto FC",
+      "marketValue": 9,
+      "profileUrl": "https://www.transfermarkt.com/niko-yamamoto/profil/spieler/47004"
+    },
+    {
+      "id": "DR_Congo_4",
+      "name": "Hugo Kim",
+      "nation": "DR Congo",
+      "age": 24,
+      "position": "Défenseur",
+      "club": "Palmeiras",
+      "marketValue": 9.1,
+      "profileUrl": "https://www.transfermarkt.com/hugo-kim/profil/spieler/47005"
+    },
+    {
+      "id": "DR_Congo_5",
+      "name": "Samuel Lopez",
+      "nation": "DR Congo",
+      "age": 35,
+      "position": "Défenseur",
+      "club": "Al-Nassr",
+      "marketValue": 2.4,
+      "profileUrl": "https://www.transfermarkt.com/samuel-lopez/profil/spieler/47006"
+    },
+    {
+      "id": "DR_Congo_6",
+      "name": "Ali Mbappé",
+      "nation": "DR Congo",
+      "age": 19,
+      "position": "Milieu",
+      "club": "Flamengo",
+      "marketValue": 9.9,
+      "profileUrl": "https://www.transfermarkt.com/ali-mbappé/profil/spieler/47007"
+    },
+    {
+      "id": "DR_Congo_7",
+      "name": "Romelu Dubois",
+      "nation": "DR Congo",
+      "age": 32,
+      "position": "Milieu",
+      "club": "Boca Juniors",
+      "marketValue": 1.6,
+      "profileUrl": "https://www.transfermarkt.com/romelu-dubois/profil/spieler/47008"
+    },
+    {
+      "id": "DR_Congo_8",
+      "name": "Tomas Smith",
+      "nation": "DR Congo",
+      "age": 29,
+      "position": "Milieu",
+      "club": "Inter Miami",
+      "marketValue": 10.7,
+      "profileUrl": "https://www.transfermarkt.com/tomas-smith/profil/spieler/47009"
+    },
+    {
+      "id": "DR_Congo_9",
+      "name": "Phil Brown",
+      "nation": "DR Congo",
+      "age": 33,
+      "position": "Milieu",
+      "club": "Palmeiras",
+      "marketValue": 3.9,
+      "profileUrl": "https://www.transfermarkt.com/phil-brown/profil/spieler/47010"
+    },
+    {
+      "id": "DR_Congo_10",
+      "name": "Bukayo Vinicius",
+      "nation": "DR Congo",
+      "age": 30,
+      "position": "Attaquant",
+      "club": "Boca Juniors",
+      "marketValue": 10.3,
+      "profileUrl": "https://www.transfermarkt.com/bukayo-vinicius/profil/spieler/47011"
+    },
+    {
+      "id": "DR_Congo_11",
+      "name": "Mohamed Vinicius",
+      "nation": "DR Congo",
+      "age": 28,
+      "position": "Attaquant",
+      "club": "River Plate",
+      "marketValue": 9.1,
+      "profileUrl": "https://www.transfermarkt.com/mohamed-vinicius/profil/spieler/47012"
+    },
+    {
+      "id": "DR_Congo_12",
+      "name": "Hassan Salah",
+      "nation": "DR Congo",
+      "age": 34,
+      "position": "Attaquant",
+      "club": "Toronto FC",
+      "marketValue": 10.9,
+      "profileUrl": "https://www.transfermarkt.com/hassan-salah/profil/spieler/47013"
+    }
+  ]
+}
